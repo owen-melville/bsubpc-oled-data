@@ -1,5 +1,7 @@
 <h1> Data and Code for: Studying the Influence of Axial Substituent on Hyperfluorescence in Organic Light-Emitting Diodes Using Boron Subphthalocyanines as Fluorescent Emitters </h1>
 
+![oled-removebg-preview](https://github.com/user-attachments/assets/82938675-28fc-4ee3-a6a0-7d610a3a2fff)
+
 All Programs and Data collected by Owen Alfred Melville, PhD as a part of his postdoctoral fellowship with Professor Timothy Bender at the University of Toronto.
 
 <h2>Folder Breakdown:</h2>
