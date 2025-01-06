@@ -12,7 +12,7 @@ All Programs and Data collected by Owen Alfred Melville, PhD as a part of his po
   
 - <b> Python: </b> Python programs and corresponding batch files used to analyze the raw data.
   
-- <b> Output Data: </b> Contains analytical outputs for each deposition run and device. This includes a large number of graphs and visualizations.
+- <b> Output Data: </b> Contains analytical outputs for each deposition run and device. This includes a large number of graphs and visualizations. [Explanation (with visualizations)](https://github.com/owen-melville/bsubpc-oled-data/blob/main/Output%20Data/readme.md)
 
 
 <i>For any questions on the Python programs or data herein, please contact Owen Melville (owen.melville@utoronto.ca) </i>
