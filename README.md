@@ -14,5 +14,10 @@ All Programs and Data collected by Owen Alfred Melville, PhD as a part of his po
   
 - <b> Output Data: </b> Contains analytical outputs for each deposition run and device. This includes a large number of graphs and visualizations. [Explanation (with visualizations)](https://github.com/owen-melville/bsubpc-oled-data/blob/main/Output%20Data/readme.md)
 
+![image](https://github.com/user-attachments/assets/029256db-0984-4b80-9635-80f0922741e1)
+
+![OLED-033_visual](https://github.com/user-attachments/assets/cb552476-8de3-46e5-8a72-6f81882c881b)
+
+![Hyperfluorescence_Spectral_Comparison](https://github.com/user-attachments/assets/eefdf98a-f96b-4481-ba0b-f97b6c3cf314)
 
 <i>For any questions on the Python programs or data herein, please contact Owen Melville (owen.melville@utoronto.ca) </i>
