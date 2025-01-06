@@ -8,4 +8,4 @@ This program takes the deposition data in the <b>IC6 Evaporation Logs</b> folder
 
 <h2>OLED Update</h2>
 
-This program takes the optoelectronic data from the OLEDs in the <b>Raw OLED Data</b> folder and calculates various performance metrics, generates opto-electronic performance plots, and performs correlative analysis between performance metrics and the thicknesses of the different layers. All of these results are stored in the <b>Output Data </b> folder. The program also determines what data to disregard (eg short circuited or open circuited devices). 
+This program takes the optoelectronic data from the OLEDs in the <b>Raw OLED Data</b> folder and calculates various performance metrics, generates opto-electronic performance plots, and performs correlative analysis between performance metrics and the thicknesses of the different layers. All of these results are stored in the <b>Output Data </b> folder and the <b>Master OLED Log</b> spreadsheet in the <b>OFfline Spreadsheets</b> folder. The program also determines what data to disregard (eg short circuited or open circuited devices). 
