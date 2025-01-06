@@ -8,7 +8,7 @@ All Programs and Data collected by Owen Alfred Melville, PhD as a part of his po
 
 - <b> IC6 Evaporation Logs: </b> Raw data collected during the deposition of the OLEDs from the IC6 which controls the deposition of the thin films.
   
-- <b> Offline Spreadsheets: </b> Summary deposition and electro-optical data for each device, labelling for each device index (eg OLED-001 corresponds to what materials).
+- <b> Offline Spreadsheets: </b> Summary deposition and electro-optical data for each device, labelling for each device index (eg OLED-001).
   
 - <b> Python: </b> Python programs and corresponding batch files used to analyze the raw data.
   
