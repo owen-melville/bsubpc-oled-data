@@ -38,7 +38,7 @@ This graph shows the shape of the emission at a specified luminance, averaged ac
 
 This diagram shows the energy levels of the materials in the device.
 
-![OLED-033 Energy Level Diagram](https://github.com/user-attachments/assets/302d4781-5f28-46b0-8755-c6ed0e65447b)
+![OLED-015 Energy Level Diagram](https://github.com/user-attachments/assets/77c3b653-603a-4ad8-9e1d-71d2994c027b)
 
 <b> CIE Plot: </b>
 
