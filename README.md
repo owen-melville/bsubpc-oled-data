@@ -2,7 +2,7 @@
 
 ![oled-removebg-preview](https://github.com/user-attachments/assets/82938675-28fc-4ee3-a6a0-7d610a3a2fff)
 
-All Programs and Data collected by Owen Alfred Melville, PhD as a part of his postdoctoral fellowship with Professor Timothy Bender at the University of Toronto.
+All Programs written and data collected by <b>Owen Alfred Melville</b>, PhD as a part of his postdoctoral fellowship with Professor Timothy Bender at the University of Toronto.
 
 <h2>Folder Breakdown:</h2>
 
