@@ -5,9 +5,13 @@ All Programs and Data collected by Owen Alfred Melville, PhD as a part of his po
 
 <h2>Folder Breakdown:</h2>
 - <b> Raw OLED Data: </b> Raw data collected from the OLEDs during characterization. This includes optoelectronic data as a function of Voltage and full spectra has a function of wavelength.
+
 - <b> IC6 Evaporation Logs: </b> Raw data collected during the deposition of the OLEDs from the IC6 which controls the deposition of the thin films.
+  
 - <b> Offline Spreadsheets: </b> Summary deposition and electro-optical data for each device, labelling for each device index (eg OLED-001 corresponds to what materials).
+  
 - <b> Python: </b> Python programs and corresponding batch files used to analyze the raw data.
+  
 - <b> Output Data: </b> Contains analytical outputs for each deposition run and device. This includes a large number of graphs and visualizations.
 
 
