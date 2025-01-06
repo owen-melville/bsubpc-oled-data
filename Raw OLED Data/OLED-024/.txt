@@ -1,0 +1,2 @@
+Voltage(V)	Current(A)	J(mA/cm2)	PE(lm/W)	EQE(%)	L(cd/m2)
+0.00000E+0	0.00000E+0	0.00000E+0	NaN	NaN	-6.74595E-1

@@ -1,0 +1,1964 @@
+	Timestamp	Filtered Rate: B3PYMPM	Source Power: B3PYMPM	Thickness: B3PYMPM	State: B3PYMPM	Fundamental  Frequency: B3PYMPM	Current Z-Ratio: B3PYMPM
+0	15:01:43	-0.001	0.000	0.000	Ready	Sensor Status	Fundamental Activity
+1	15:01:44	-0.001	0.000	0.000	Ready	Sensor Status	Fundamental Activity
+2	15:01:45	-0.001	0.213	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+3	15:01:46	-0.001	0.747	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+4	15:01:47	-0.001	1.280	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+5	15:01:48	-0.002	1.813	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+6	15:01:49	-0.002	2.347	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+7	15:01:50	-0.001	2.880	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+8	15:01:51	-0.001	3.413	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+9	15:01:52	-0.002	3.947	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+10	15:01:53	-0.002	4.480	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+11	15:01:54	-0.002	5.013	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+12	15:01:55	-0.002	5.547	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+13	15:01:56	-0.002	6.080	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+14	15:01:57	-0.002	6.613	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+15	15:01:58	-0.002	7.147	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+16	15:01:59	-0.002	7.680	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+17	15:02:00	-0.002	8.213	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+18	15:02:01	-0.001	8.747	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+19	15:02:02	-0.002	9.280	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+20	15:02:03	-0.002	9.813	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+21	15:02:04	-0.002	10.347	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+22	15:02:05	-0.002	10.880	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+23	15:02:06	-0.002	11.413	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+24	15:02:07	-0.002	11.947	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+25	15:02:08	-0.003	12.480	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+26	15:02:09	-0.002	13.013	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+27	15:02:10	-0.002	13.547	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+28	15:02:11	-0.002	14.080	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+29	15:02:12	-0.003	14.613	0.000	PreCon Rise	Sensor Status	Fundamental Activity
+30	15:02:13	-0.002	15.147	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+31	15:02:14	-0.002	15.680	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+32	15:02:15	-0.002	16.213	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+33	15:02:16	-0.002	16.747	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+34	15:02:17	-0.002	17.280	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+35	15:02:18	-0.003	17.813	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+36	15:02:19	-0.002	18.347	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+37	15:02:20	-0.002	18.880	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+38	15:02:21	-0.002	19.413	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+39	15:02:22	-0.002	19.947	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+40	15:02:23	-0.002	20.480	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+41	15:02:24	-0.003	21.013	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+42	15:02:25	-0.003	21.547	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+43	15:02:26	-0.002	22.080	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+44	15:02:27	-0.003	22.613	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+45	15:02:28	-0.002	23.147	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+46	15:02:29	-0.003	23.680	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+47	15:02:30	-0.002	24.213	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+48	15:02:31	-0.003	24.747	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+49	15:02:32	-0.003	25.280	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+50	15:02:33	-0.002	25.813	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+51	15:02:34	-0.002	26.347	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+52	15:02:35	-0.004	26.880	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+53	15:02:36	-0.002	27.413	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+54	15:02:37	-0.003	27.947	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+55	15:02:38	-0.003	28.480	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+56	15:02:39	-0.002	29.013	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+57	15:02:40	-0.004	29.600	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+58	15:02:41	-0.003	30.080	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+59	15:02:42	-0.003	30.613	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+60	15:02:43	-0.003	31.147	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+61	15:02:44	-0.003	31.680	-0.000	PreCon Rise	Sensor Status	Fundamental Activity
+62	15:02:45	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+63	15:02:46	-0.004	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+64	15:02:47	-0.004	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+65	15:02:48	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+66	15:02:49	-0.004	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+67	15:02:50	-0.004	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+68	15:02:51	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+69	15:02:52	-0.004	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+70	15:02:53	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+71	15:02:54	-0.004	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+72	15:02:55	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+73	15:02:56	-0.004	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+74	15:02:57	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+75	15:02:58	-0.004	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+76	15:02:59	-0.004	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+77	15:03:00	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+78	15:03:01	-0.004	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+79	15:03:02	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+80	15:03:03	-0.004	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+81	15:03:04	-0.004	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+82	15:03:05	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+83	15:03:06	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+84	15:03:07	-0.004	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+85	15:03:08	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+86	15:03:09	-0.004	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+87	15:03:10	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+88	15:03:11	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+89	15:03:12	-0.004	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+90	15:03:13	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+91	15:03:14	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+92	15:03:15	-0.004	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+93	15:03:16	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+94	15:03:17	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+95	15:03:18	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+96	15:03:19	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+97	15:03:20	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+98	15:03:21	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+99	15:03:22	-0.004	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+100	15:03:23	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+101	15:03:24	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+102	15:03:25	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+103	15:03:26	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+104	15:03:27	-0.004	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+105	15:03:28	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+106	15:03:29	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+107	15:03:30	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+108	15:03:31	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+109	15:03:32	-0.004	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+110	15:03:33	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+111	15:03:34	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+112	15:03:35	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+113	15:03:36	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+114	15:03:37	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+115	15:03:38	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+116	15:03:39	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+117	15:03:40	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+118	15:03:41	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+119	15:03:42	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+120	15:03:43	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+121	15:03:44	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+122	15:03:45	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+123	15:03:46	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+124	15:03:47	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+125	15:03:48	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+126	15:03:49	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+127	15:03:50	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+128	15:03:51	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+129	15:03:52	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+130	15:03:53	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+131	15:03:54	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+132	15:03:55	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+133	15:03:56	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+134	15:03:57	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+135	15:03:58	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+136	15:03:59	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+137	15:04:00	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+138	15:04:01	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+139	15:04:02	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+140	15:04:03	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+141	15:04:04	-0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+142	15:04:05	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+143	15:04:06	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+144	15:04:07	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+145	15:04:08	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+146	15:04:09	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+147	15:04:10	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+148	15:04:11	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+149	15:04:12	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+150	15:04:13	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+151	15:04:14	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+152	15:04:15	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+153	15:04:16	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+154	15:04:17	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+155	15:04:18	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+156	15:04:19	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+157	15:04:20	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+158	15:04:21	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+159	15:04:22	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+160	15:04:23	-0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+161	15:04:24	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+162	15:04:25	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+163	15:04:26	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+164	15:04:27	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+165	15:04:28	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+166	15:04:29	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+167	15:04:30	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+168	15:04:31	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+169	15:04:32	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+170	15:04:33	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+171	15:04:34	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+172	15:04:35	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+173	15:04:36	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+174	15:04:37	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+175	15:04:38	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+176	15:04:39	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+177	15:04:40	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+178	15:04:41	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+179	15:04:42	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+180	15:04:43	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+181	15:04:44	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+182	15:04:45	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+183	15:04:46	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+184	15:04:47	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+185	15:04:48	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+186	15:04:49	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+187	15:04:50	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+188	15:04:51	-0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+189	15:04:52	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+190	15:04:53	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+191	15:04:54	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+192	15:04:55	-0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+193	15:04:56	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+194	15:04:57	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+195	15:04:58	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+196	15:04:59	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+197	15:05:00	-0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+198	15:05:01	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+199	15:05:02	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+200	15:05:03	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+201	15:05:04	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+202	15:05:05	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+203	15:05:06	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+204	15:05:07	-0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+205	15:05:08	-0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+206	15:05:09	-0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+207	15:05:10	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+208	15:05:11	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+209	15:05:12	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+210	15:05:13	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+211	15:05:14	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+212	15:05:15	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+213	15:05:16	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+214	15:05:17	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+215	15:05:18	-0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+216	15:05:19	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+217	15:05:20	-0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+218	15:05:21	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+219	15:05:22	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+220	15:05:23	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+221	15:05:24	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+222	15:05:25	-0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+223	15:05:26	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+224	15:05:27	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+225	15:05:28	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+226	15:05:29	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+227	15:05:30	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+228	15:05:31	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+229	15:05:32	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+230	15:05:33	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+231	15:05:34	-0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+232	15:05:35	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+233	15:05:36	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+234	15:05:37	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+235	15:05:38	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+236	15:05:39	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+237	15:05:40	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+238	15:05:41	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+239	15:05:42	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+240	15:05:43	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+241	15:05:44	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+242	15:05:45	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+243	15:05:46	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+244	15:05:47	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+245	15:05:48	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+246	15:05:49	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+247	15:05:50	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+248	15:05:51	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+249	15:05:52	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+250	15:05:53	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+251	15:05:54	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+252	15:05:55	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+253	15:05:56	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+254	15:05:57	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+255	15:05:58	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+256	15:05:59	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+257	15:06:00	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+258	15:06:01	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+259	15:06:02	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+260	15:06:03	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+261	15:06:04	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+262	15:06:05	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+263	15:06:06	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+264	15:06:07	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+265	15:06:08	0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+266	15:06:09	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+267	15:06:10	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+268	15:06:11	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+269	15:06:12	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+270	15:06:13	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+271	15:06:14	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+272	15:06:15	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+273	15:06:16	-0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+274	15:06:17	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+275	15:06:18	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+276	15:06:19	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+277	15:06:20	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+278	15:06:21	-0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+279	15:06:22	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+280	15:06:23	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+281	15:06:24	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+282	15:06:25	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+283	15:06:26	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+284	15:06:27	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+285	15:06:28	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+286	15:06:29	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+287	15:06:30	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+288	15:06:31	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+289	15:06:32	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+290	15:06:33	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+291	15:06:34	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+292	15:06:35	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+293	15:06:36	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+294	15:06:37	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+295	15:06:38	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+296	15:06:39	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+297	15:06:40	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+298	15:06:41	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+299	15:06:42	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+300	15:06:43	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+301	15:06:44	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+302	15:06:45	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+303	15:06:46	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+304	15:06:47	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+305	15:06:48	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+306	15:06:49	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+307	15:06:50	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+308	15:06:51	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+309	15:06:52	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+310	15:06:53	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+311	15:06:54	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+312	15:06:55	-0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+313	15:06:56	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+314	15:06:57	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+315	15:06:58	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+316	15:06:59	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+317	15:07:00	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+318	15:07:01	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+319	15:07:02	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+320	15:07:03	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+321	15:07:04	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+322	15:07:05	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+323	15:07:06	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+324	15:07:07	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+325	15:07:08	0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+326	15:07:09	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+327	15:07:10	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+328	15:07:11	0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+329	15:07:12	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+330	15:07:13	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+331	15:07:14	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+332	15:07:15	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+333	15:07:16	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+334	15:07:17	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+335	15:07:18	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+336	15:07:19	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+337	15:07:20	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+338	15:07:21	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+339	15:07:22	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+340	15:07:23	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+341	15:07:24	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+342	15:07:25	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+343	15:07:26	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+344	15:07:27	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+345	15:07:28	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+346	15:07:29	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+347	15:07:30	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+348	15:07:31	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+349	15:07:32	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+350	15:07:33	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+351	15:07:34	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+352	15:07:35	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+353	15:07:36	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+354	15:07:37	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+355	15:07:38	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+356	15:07:39	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+357	15:07:40	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+358	15:07:41	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+359	15:07:42	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+360	15:07:43	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+361	15:07:44	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+362	15:07:45	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+363	15:07:46	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+364	15:07:47	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+365	15:07:48	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+366	15:07:49	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+367	15:07:50	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+368	15:07:51	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+369	15:07:52	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+370	15:07:53	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+371	15:07:54	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+372	15:07:55	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+373	15:07:56	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+374	15:07:57	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+375	15:07:58	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+376	15:07:59	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+377	15:08:00	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+378	15:08:01	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+379	15:08:02	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+380	15:08:03	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+381	15:08:04	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+382	15:08:05	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+383	15:08:06	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+384	15:08:07	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+385	15:08:08	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+386	15:08:09	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+387	15:08:10	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+388	15:08:11	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+389	15:08:12	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+390	15:08:13	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+391	15:08:14	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+392	15:08:15	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+393	15:08:16	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+394	15:08:17	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+395	15:08:18	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+396	15:08:19	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+397	15:08:20	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+398	15:08:21	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+399	15:08:22	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+400	15:08:23	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+401	15:08:24	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+402	15:08:25	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+403	15:08:26	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+404	15:08:27	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+405	15:08:28	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+406	15:08:29	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+407	15:08:30	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+408	15:08:31	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+409	15:08:32	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+410	15:08:33	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+411	15:08:34	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+412	15:08:35	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+413	15:08:36	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+414	15:08:37	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+415	15:08:38	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+416	15:08:39	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+417	15:08:40	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+418	15:08:41	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+419	15:08:42	0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+420	15:08:43	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+421	15:08:44	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+422	15:08:45	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+423	15:08:46	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+424	15:08:47	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+425	15:08:48	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+426	15:08:49	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+427	15:08:50	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+428	15:08:51	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+429	15:08:52	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+430	15:08:53	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+431	15:08:54	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+432	15:08:55	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+433	15:08:56	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+434	15:08:57	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+435	15:08:58	-0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+436	15:08:59	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+437	15:09:00	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+438	15:09:01	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+439	15:09:02	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+440	15:09:03	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+441	15:09:04	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+442	15:09:05	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+443	15:09:06	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+444	15:09:07	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+445	15:09:08	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+446	15:09:09	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+447	15:09:10	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+448	15:09:11	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+449	15:09:12	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+450	15:09:13	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+451	15:09:14	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+452	15:09:15	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+453	15:09:16	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+454	15:09:17	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+455	15:09:18	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+456	15:09:19	0.003	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+457	15:09:20	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+458	15:09:21	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+459	15:09:22	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+460	15:09:23	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+461	15:09:24	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+462	15:09:25	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+463	15:09:26	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+464	15:09:27	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+465	15:09:28	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+466	15:09:29	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+467	15:09:30	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+468	15:09:31	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+469	15:09:32	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+470	15:09:33	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+471	15:09:34	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+472	15:09:35	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+473	15:09:36	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+474	15:09:37	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+475	15:09:38	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+476	15:09:39	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+477	15:09:40	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+478	15:09:41	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+479	15:09:42	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+480	15:09:43	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+481	15:09:44	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+482	15:09:45	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+483	15:09:46	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+484	15:09:47	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+485	15:09:48	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+486	15:09:49	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+487	15:09:50	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+488	15:09:51	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+489	15:09:52	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+490	15:09:53	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+491	15:09:54	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+492	15:09:55	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+493	15:09:56	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+494	15:09:57	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+495	15:09:58	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+496	15:09:59	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+497	15:10:00	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+498	15:10:01	-0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+499	15:10:02	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+500	15:10:03	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+501	15:10:04	0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+502	15:10:05	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+503	15:10:06	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+504	15:10:07	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+505	15:10:08	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+506	15:10:09	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+507	15:10:10	-0.000	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+508	15:10:11	0.002	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+509	15:10:12	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+510	15:10:13	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+511	15:10:14	0.001	32.000	-0.000	PreCon Soak	Sensor Status	Fundamental Activity
+512	15:10:15	0.002	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+513	15:10:16	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+514	15:10:17	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+515	15:10:18	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+516	15:10:19	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+517	15:10:20	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+518	15:10:21	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+519	15:10:22	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+520	15:10:23	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+521	15:10:24	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+522	15:10:25	0.002	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+523	15:10:26	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+524	15:10:27	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+525	15:10:28	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+526	15:10:29	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+527	15:10:30	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+528	15:10:31	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+529	15:10:32	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+530	15:10:33	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+531	15:10:34	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+532	15:10:35	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+533	15:10:36	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+534	15:10:37	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+535	15:10:38	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+536	15:10:39	-0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+537	15:10:40	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+538	15:10:41	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+539	15:10:42	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+540	15:10:43	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+541	15:10:44	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+542	15:10:45	-0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+543	15:10:46	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+544	15:10:47	-0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+545	15:10:48	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+546	15:10:49	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+547	15:10:50	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+548	15:10:51	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+549	15:10:52	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+550	15:10:53	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+551	15:10:54	0.002	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+552	15:10:55	-0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+553	15:10:56	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+554	15:10:57	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+555	15:10:58	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+556	15:10:59	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+557	15:11:00	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+558	15:11:01	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+559	15:11:02	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+560	15:11:03	0.002	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+561	15:11:04	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+562	15:11:05	-0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+563	15:11:06	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+564	15:11:07	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+565	15:11:08	-0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+566	15:11:09	-0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+567	15:11:10	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+568	15:11:11	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+569	15:11:12	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+570	15:11:13	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+571	15:11:14	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+572	15:11:15	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+573	15:11:16	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+574	15:11:17	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+575	15:11:18	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+576	15:11:19	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+577	15:11:20	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+578	15:11:21	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+579	15:11:22	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+580	15:11:23	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+581	15:11:24	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+582	15:11:25	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+583	15:11:26	-0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+584	15:11:27	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+585	15:11:28	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+586	15:11:29	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+587	15:11:30	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+588	15:11:31	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+589	15:11:32	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+590	15:11:33	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+591	15:11:34	-0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+592	15:11:35	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+593	15:11:36	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+594	15:11:37	0.002	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+595	15:11:38	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+596	15:11:39	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+597	15:11:40	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+598	15:11:41	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+599	15:11:42	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+600	15:11:43	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+601	15:11:44	0.002	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+602	15:11:45	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+603	15:11:46	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+604	15:11:47	-0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+605	15:11:48	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+606	15:11:49	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+607	15:11:50	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+608	15:11:51	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+609	15:11:52	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+610	15:11:53	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+611	15:11:54	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+612	15:11:55	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+613	15:11:56	-0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+614	15:11:57	-0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+615	15:11:58	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+616	15:11:59	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+617	15:12:00	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+618	15:12:01	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+619	15:12:02	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+620	15:12:03	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+621	15:12:04	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+622	15:12:05	0.002	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+623	15:12:06	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+624	15:12:07	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+625	15:12:08	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+626	15:12:09	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+627	15:12:10	-0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+628	15:12:11	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+629	15:12:12	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+630	15:12:13	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+631	15:12:14	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+632	15:12:15	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+633	15:12:16	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+634	15:12:17	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+635	15:12:18	0.002	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+636	15:12:19	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+637	15:12:20	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+638	15:12:21	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+639	15:12:22	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+640	15:12:23	-0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+641	15:12:24	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+642	15:12:25	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+643	15:12:26	-0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+644	15:12:27	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+645	15:12:28	-0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+646	15:12:29	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+647	15:12:30	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+648	15:12:31	-0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+649	15:12:32	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+650	15:12:33	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+651	15:12:34	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+652	15:12:35	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+653	15:12:36	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+654	15:12:37	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+655	15:12:38	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+656	15:12:39	-0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+657	15:12:40	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+658	15:12:41	0.000	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+659	15:12:42	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+660	15:12:43	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+661	15:12:44	0.001	32.000	0.000	PreCon Soak	Sensor Status	Fundamental Activity
+662	15:12:45	0.000	32.040	0.000	Deposit	Sensor Status	Fundamental Activity
+663	15:12:46	0.000	32.140	0.000	Deposit	Sensor Status	Fundamental Activity
+664	15:12:47	0.001	32.240	0.000	Deposit	Sensor Status	Fundamental Activity
+665	15:12:48	-0.001	32.340	0.000	Deposit	Sensor Status	Fundamental Activity
+666	15:12:49	0.001	32.440	0.000	Deposit	Sensor Status	Fundamental Activity
+667	15:12:50	-0.000	32.540	0.000	Deposit	Sensor Status	Fundamental Activity
+668	15:12:51	0.000	32.640	0.000	Deposit	Sensor Status	Fundamental Activity
+669	15:12:52	0.000	32.740	0.000	Deposit	Sensor Status	Fundamental Activity
+670	15:12:53	-0.001	32.840	0.000	Deposit	Sensor Status	Fundamental Activity
+671	15:12:54	-0.001	32.940	-0.000	Deposit	Sensor Status	Fundamental Activity
+672	15:12:55	-0.001	33.040	-0.000	Deposit	Sensor Status	Fundamental Activity
+673	15:12:56	0.000	33.140	-0.000	Deposit	Sensor Status	Fundamental Activity
+674	15:12:57	-0.001	33.240	-0.000	Deposit	Sensor Status	Fundamental Activity
+675	15:12:58	-0.002	33.340	-0.000	Deposit	Sensor Status	Fundamental Activity
+676	15:12:59	0.000	33.440	-0.000	Deposit	Sensor Status	Fundamental Activity
+677	15:13:00	-0.002	33.541	-0.000	Deposit	Sensor Status	Fundamental Activity
+678	15:13:01	-0.002	33.641	-0.000	Deposit	Sensor Status	Fundamental Activity
+679	15:13:02	-0.002	33.741	-0.000	Deposit	Sensor Status	Fundamental Activity
+680	15:13:03	-0.002	33.841	-0.000	Deposit	Sensor Status	Fundamental Activity
+681	15:13:04	-0.001	33.941	-0.000	Deposit	Sensor Status	Fundamental Activity
+682	15:13:05	-0.002	34.052	-0.000	Deposit	Sensor Status	Fundamental Activity
+683	15:13:06	-0.001	34.142	-0.000	Deposit	Sensor Status	Fundamental Activity
+684	15:13:07	-0.003	34.242	-0.000	Deposit	Sensor Status	Fundamental Activity
+685	15:13:08	-0.003	34.342	-0.000	Deposit	Sensor Status	Fundamental Activity
+686	15:13:09	-0.002	34.442	-0.000	Deposit	Sensor Status	Fundamental Activity
+687	15:13:10	-0.002	34.543	-0.000	Deposit	Sensor Status	Fundamental Activity
+688	15:13:11	-0.002	34.653	-0.000	Deposit	Sensor Status	Fundamental Activity
+689	15:13:12	-0.002	34.743	-0.000	Deposit	Sensor Status	Fundamental Activity
+690	15:13:13	-0.003	34.843	-0.000	Deposit	Sensor Status	Fundamental Activity
+691	15:13:14	-0.003	34.944	-0.000	Deposit	Sensor Status	Fundamental Activity
+692	15:13:15	-0.003	35.044	-0.000	Deposit	Sensor Status	Fundamental Activity
+693	15:13:16	-0.003	35.144	-0.000	Deposit	Sensor Status	Fundamental Activity
+694	15:13:17	-0.005	35.245	-0.000	Deposit	Sensor Status	Fundamental Activity
+695	15:13:18	-0.003	35.345	-0.000	Deposit	Sensor Status	Fundamental Activity
+696	15:13:19	-0.004	35.445	-0.000	Deposit	Sensor Status	Fundamental Activity
+697	15:13:20	-0.004	35.546	-0.000	Deposit	Sensor Status	Fundamental Activity
+698	15:13:21	-0.004	35.646	-0.000	Deposit	Sensor Status	Fundamental Activity
+699	15:13:22	-0.004	35.747	-0.000	Deposit	Sensor Status	Fundamental Activity
+700	15:13:23	-0.005	35.847	-0.000	Deposit	Sensor Status	Fundamental Activity
+701	15:13:24	-0.005	35.947	-0.000	Deposit	Sensor Status	Fundamental Activity
+702	15:13:25	-0.003	36.048	-0.000	Deposit	Sensor Status	Fundamental Activity
+703	15:13:26	-0.006	36.148	-0.000	Deposit	Sensor Status	Fundamental Activity
+704	15:13:27	-0.003	36.249	-0.000	Deposit	Sensor Status	Fundamental Activity
+705	15:13:28	-0.005	36.349	-0.000	Deposit	Sensor Status	Fundamental Activity
+706	15:13:29	-0.004	36.450	-0.000	Deposit	Sensor Status	Fundamental Activity
+707	15:13:30	-0.006	36.550	-0.000	Deposit	Sensor Status	Fundamental Activity
+708	15:13:31	-0.004	36.651	-0.000	Deposit	Sensor Status	Fundamental Activity
+709	15:13:32	-0.005	36.751	-0.000	Deposit	Sensor Status	Fundamental Activity
+710	15:13:33	-0.004	36.852	-0.000	Deposit	Sensor Status	Fundamental Activity
+711	15:13:34	-0.006	36.952	-0.000	Deposit	Sensor Status	Fundamental Activity
+712	15:13:35	-0.004	37.053	-0.000	Deposit	Sensor Status	Fundamental Activity
+713	15:13:36	-0.006	37.153	-0.000	Deposit	Sensor Status	Fundamental Activity
+714	15:13:37	-0.005	37.254	-0.000	Deposit	Sensor Status	Fundamental Activity
+715	15:13:38	-0.006	37.354	-0.000	Deposit	Sensor Status	Fundamental Activity
+716	15:13:39	-0.005	37.455	-0.000	Deposit	Sensor Status	Fundamental Activity
+717	15:13:40	-0.005	37.555	-0.000	Deposit	Sensor Status	Fundamental Activity
+718	15:13:41	-0.005	37.656	-0.000	Deposit	Sensor Status	Fundamental Activity
+719	15:13:42	-0.006	37.756	-0.000	Deposit	Sensor Status	Fundamental Activity
+720	15:13:43	-0.006	37.857	-0.000	Deposit	Sensor Status	Fundamental Activity
+721	15:13:44	-0.006	37.958	-0.000	Deposit	Sensor Status	Fundamental Activity
+722	15:13:45	-0.006	38.058	-0.000	Deposit	Sensor Status	Fundamental Activity
+723	15:13:46	-0.007	38.159	-0.000	Deposit	Sensor Status	Fundamental Activity
+724	15:13:47	-0.006	38.260	-0.000	Deposit	Sensor Status	Fundamental Activity
+725	15:13:48	-0.007	38.360	-0.000	Deposit	Sensor Status	Fundamental Activity
+726	15:13:49	-0.007	38.461	-0.000	Deposit	Sensor Status	Fundamental Activity
+727	15:13:50	-0.007	38.562	-0.000	Deposit	Sensor Status	Fundamental Activity
+728	15:13:51	-0.008	38.662	-0.000	Deposit	Sensor Status	Fundamental Activity
+729	15:13:52	-0.007	38.763	-0.000	Deposit	Sensor Status	Fundamental Activity
+730	15:13:53	-0.009	38.864	-0.000	Deposit	Sensor Status	Fundamental Activity
+731	15:13:54	-0.008	38.965	-0.000	Deposit	Sensor Status	Fundamental Activity
+732	15:13:55	-0.008	39.066	-0.000	Deposit	Sensor Status	Fundamental Activity
+733	15:13:56	-0.010	39.167	-0.000	Deposit	Sensor Status	Fundamental Activity
+734	15:13:57	-0.011	39.278	-0.000	Deposit	Sensor Status	Fundamental Activity
+735	15:13:58	-0.010	39.369	-0.000	Deposit	Sensor Status	Fundamental Activity
+736	15:13:59	-0.010	39.469	-0.000	Deposit	Sensor Status	Fundamental Activity
+737	15:14:00	-0.009	39.570	-0.000	Deposit	Sensor Status	Fundamental Activity
+738	15:14:01	-0.009	39.671	-0.000	Deposit	Sensor Status	Fundamental Activity
+739	15:14:02	-0.008	39.772	-0.000	Deposit	Sensor Status	Fundamental Activity
+740	15:14:03	-0.008	39.873	-0.000	Deposit	Sensor Status	Fundamental Activity
+741	15:14:04	-0.009	39.974	-0.000	Deposit	Sensor Status	Fundamental Activity
+742	15:14:05	-0.008	40.075	-0.000	Deposit	Sensor Status	Fundamental Activity
+743	15:14:06	-0.008	40.176	-0.000	Deposit	Sensor Status	Fundamental Activity
+744	15:14:07	-0.007	40.276	-0.000	Deposit	Sensor Status	Fundamental Activity
+745	15:14:08	-0.006	40.377	-0.000	Deposit	Sensor Status	Fundamental Activity
+746	15:14:09	-0.007	40.478	-0.000	Deposit	Sensor Status	Fundamental Activity
+747	15:14:10	-0.006	40.578	-0.000	Deposit	Sensor Status	Fundamental Activity
+748	15:14:11	-0.007	40.679	-0.000	Deposit	Sensor Status	Fundamental Activity
+749	15:14:12	-0.006	40.780	-0.000	Deposit	Sensor Status	Fundamental Activity
+750	15:14:13	-0.006	40.880	-0.000	Deposit	Sensor Status	Fundamental Activity
+751	15:14:14	-0.004	40.981	-0.000	Deposit	Sensor Status	Fundamental Activity
+752	15:14:15	-0.003	41.081	-0.000	Deposit	Sensor Status	Fundamental Activity
+753	15:14:16	-0.002	41.181	-0.000	Deposit	Sensor Status	Fundamental Activity
+754	15:14:17	0.001	41.281	-0.000	Deposit	Sensor Status	Fundamental Activity
+755	15:14:18	0.001	41.391	-0.000	Deposit	Sensor Status	Fundamental Activity
+756	15:14:19	0.004	41.441	-0.000	Manual	Sensor Status	Fundamental Activity
+757	15:14:20	0.009	41.124	-0.000	Manual	Sensor Status	Fundamental Activity
+758	15:14:21	0.012	40.462	-0.000	Manual	Sensor Status	Fundamental Activity
+759	15:14:22	0.020	39.215	-0.000	Manual	Sensor Status	Fundamental Activity
+760	15:14:23	0.031	36.825	-0.000	Manual	Sensor Status	Fundamental Activity
+761	15:14:24	0.041	33.172	-0.000	Manual	Sensor Status	Fundamental Activity
+762	15:14:25	0.053	28.172	-0.000	Manual	Sensor Status	Fundamental Activity
+763	15:14:26	0.061	26.172	-0.000	Manual	Sensor Status	Fundamental Activity
+764	15:14:27	0.062	26.172	-0.000	Manual	Sensor Status	Fundamental Activity
+765	15:14:28	0.057	26.172	-0.000	Manual	Sensor Status	Fundamental Activity
+766	15:14:29	0.054	26.172	-0.000	Manual	Sensor Status	Fundamental Activity
+767	15:14:30	0.053	26.222	0.000	Manual	Sensor Status	Fundamental Activity
+768	15:14:31	0.051	26.593	0.000	Manual	Sensor Status	Fundamental Activity
+769	15:14:32	0.050	27.327	0.000	Manual	Sensor Status	Fundamental Activity
+770	15:14:33	0.048	28.533	0.000	Manual	Sensor Status	Fundamental Activity
+771	15:14:34	0.045	29.630	0.000	Manual	Sensor Status	Fundamental Activity
+772	15:14:35	0.044	29.680	0.000	Manual	Sensor Status	Fundamental Activity
+773	15:14:36	0.041	29.986	0.000	Manual	Sensor Status	Fundamental Activity
+774	15:14:37	0.041	30.101	0.000	Manual	Sensor Status	Fundamental Activity
+775	15:14:38	0.040	30.178	0.000	Manual	Sensor Status	Fundamental Activity
+776	15:14:39	0.039	30.228	0.000	Manual	Sensor Status	Fundamental Activity
+777	15:14:40	0.039	30.481	0.000	Manual	Sensor Status	Fundamental Activity
+778	15:14:41	0.037	30.842	0.001	Manual	Sensor Status	Fundamental Activity
+779	15:14:42	0.037	31.042	0.001	Manual	Sensor Status	Fundamental Activity
+780	15:14:43	0.034	31.225	0.001	Manual	Sensor Status	Fundamental Activity
+781	15:14:44	0.034	31.534	0.001	Manual	Sensor Status	Fundamental Activity
+782	15:14:45	0.033	32.097	0.001	Manual	Sensor Status	Fundamental Activity
+783	15:14:46	0.032	32.147	0.001	Manual	Sensor Status	Fundamental Activity
+784	15:14:47	0.031	32.374	0.001	Manual	Sensor Status	Fundamental Activity
+785	15:14:48	0.030	32.485	0.001	Manual	Sensor Status	Fundamental Activity
+786	15:14:49	0.030	32.681	0.001	Manual	Sensor Status	Fundamental Activity
+787	15:14:50	0.029	33.196	0.001	Manual	Sensor Status	Fundamental Activity
+788	15:14:51	0.027	33.470	0.001	Manual	Sensor Status	Fundamental Activity
+789	15:14:52	0.027	33.584	0.001	Manual	Sensor Status	Fundamental Activity
+790	15:14:53	0.026	33.634	0.001	Manual	Sensor Status	Fundamental Activity
+791	15:14:54	0.025	33.809	0.001	Manual	Sensor Status	Fundamental Activity
+792	15:14:55	0.024	33.999	0.001	Manual	Sensor Status	Fundamental Activity
+793	15:14:56	0.024	33.999	0.001	Manual	Sensor Status	Fundamental Activity
+794	15:14:57	0.024	33.999	0.001	Manual	Sensor Status	Fundamental Activity
+795	15:14:58	0.024	33.999	0.001	Manual	Sensor Status	Fundamental Activity
+796	15:14:59	0.025	33.999	0.001	Manual	Sensor Status	Fundamental Activity
+797	15:15:00	0.024	33.999	0.001	Manual	Sensor Status	Fundamental Activity
+798	15:15:01	0.024	33.999	0.001	Manual	Sensor Status	Fundamental Activity
+799	15:15:02	0.024	33.999	0.001	Manual	Sensor Status	Fundamental Activity
+800	15:15:03	0.023	33.999	0.001	Manual	Sensor Status	Fundamental Activity
+801	15:15:04	0.024	33.999	0.001	Manual	Sensor Status	Fundamental Activity
+802	15:15:05	0.024	33.999	0.001	Manual	Sensor Status	Fundamental Activity
+803	15:15:06	0.024	33.999	0.001	Manual	Sensor Status	Fundamental Activity
+804	15:15:07	0.023	33.999	0.001	Manual	Sensor Status	Fundamental Activity
+805	15:15:08	0.024	33.999	0.001	Manual	Sensor Status	Fundamental Activity
+806	15:15:09	0.023	33.999	0.001	Manual	Sensor Status	Fundamental Activity
+807	15:15:10	0.024	33.999	0.001	Manual	Sensor Status	Fundamental Activity
+808	15:15:11	0.025	33.999	0.001	Manual	Sensor Status	Fundamental Activity
+809	15:15:12	0.024	33.999	0.001	Manual	Sensor Status	Fundamental Activity
+810	15:15:13	0.025	33.999	0.001	Manual	Sensor Status	Fundamental Activity
+811	15:15:14	0.025	33.999	0.001	Manual	Sensor Status	Fundamental Activity
+812	15:15:15	0.025	33.999	0.001	Manual	Sensor Status	Fundamental Activity
+813	15:15:16	0.026	33.999	0.001	Manual	Sensor Status	Fundamental Activity
+814	15:15:17	0.026	33.999	0.001	Manual	Sensor Status	Fundamental Activity
+815	15:15:18	0.027	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+816	15:15:19	0.026	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+817	15:15:20	0.028	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+818	15:15:21	0.027	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+819	15:15:22	0.027	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+820	15:15:23	0.029	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+821	15:15:24	0.029	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+822	15:15:25	0.029	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+823	15:15:26	0.030	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+824	15:15:27	0.030	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+825	15:15:28	0.032	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+826	15:15:29	0.032	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+827	15:15:30	0.033	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+828	15:15:31	0.032	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+829	15:15:32	0.034	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+830	15:15:33	0.034	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+831	15:15:34	0.036	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+832	15:15:35	0.036	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+833	15:15:36	0.037	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+834	15:15:37	0.037	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+835	15:15:38	0.038	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+836	15:15:39	0.039	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+837	15:15:40	0.040	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+838	15:15:41	0.040	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+839	15:15:42	0.042	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+840	15:15:43	0.042	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+841	15:15:44	0.044	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+842	15:15:45	0.045	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+843	15:15:46	0.046	33.999	0.002	Manual	Sensor Status	Fundamental Activity
+844	15:15:47	0.046	33.999	0.003	Manual	Sensor Status	Fundamental Activity
+845	15:15:48	0.048	33.999	0.003	Manual	Sensor Status	Fundamental Activity
+846	15:15:49	0.049	33.999	0.003	Manual	Sensor Status	Fundamental Activity
+847	15:15:50	0.051	33.999	0.003	Manual	Sensor Status	Fundamental Activity
+848	15:15:51	0.051	33.999	0.003	Manual	Sensor Status	Fundamental Activity
+849	15:15:52	0.052	33.999	0.003	Manual	Sensor Status	Fundamental Activity
+850	15:15:53	0.053	33.999	0.003	Manual	Sensor Status	Fundamental Activity
+851	15:15:54	0.054	33.999	0.003	Manual	Sensor Status	Fundamental Activity
+852	15:15:55	0.056	33.999	0.003	Manual	Sensor Status	Fundamental Activity
+853	15:15:56	0.057	33.999	0.003	Manual	Sensor Status	Fundamental Activity
+854	15:15:57	0.058	33.999	0.003	Manual	Sensor Status	Fundamental Activity
+855	15:15:58	0.059	33.999	0.003	Manual	Sensor Status	Fundamental Activity
+856	15:15:59	0.061	33.999	0.003	Manual	Sensor Status	Fundamental Activity
+857	15:16:00	0.063	33.999	0.003	Manual	Sensor Status	Fundamental Activity
+858	15:16:01	0.063	33.999	0.003	Manual	Sensor Status	Fundamental Activity
+859	15:16:02	0.065	33.999	0.003	Manual	Sensor Status	Fundamental Activity
+860	15:16:03	0.067	33.999	0.003	Manual	Sensor Status	Fundamental Activity
+861	15:16:04	0.068	33.999	0.003	Manual	Sensor Status	Fundamental Activity
+862	15:16:05	0.069	33.999	0.004	Manual	Sensor Status	Fundamental Activity
+863	15:16:06	0.070	33.999	0.004	Manual	Sensor Status	Fundamental Activity
+864	15:16:07	0.073	33.999	0.004	Manual	Sensor Status	Fundamental Activity
+865	15:16:08	0.072	33.999	0.004	Manual	Sensor Status	Fundamental Activity
+866	15:16:09	0.075	33.999	0.004	Manual	Sensor Status	Fundamental Activity
+867	15:16:10	0.076	33.999	0.004	Manual	Sensor Status	Fundamental Activity
+868	15:16:11	0.078	33.999	0.004	Manual	Sensor Status	Fundamental Activity
+869	15:16:12	0.079	33.999	0.004	Manual	Sensor Status	Fundamental Activity
+870	15:16:13	0.081	33.999	0.004	Manual	Sensor Status	Fundamental Activity
+871	15:16:14	0.082	33.999	0.004	Manual	Sensor Status	Fundamental Activity
+872	15:16:15	0.083	33.999	0.004	Manual	Sensor Status	Fundamental Activity
+873	15:16:16	0.086	33.999	0.004	Manual	Sensor Status	Fundamental Activity
+874	15:16:17	0.089	33.999	0.004	Manual	Sensor Status	Fundamental Activity
+875	15:16:18	0.089	33.999	0.005	Manual	Sensor Status	Fundamental Activity
+876	15:16:19	0.092	33.999	0.005	Manual	Sensor Status	Fundamental Activity
+877	15:16:20	0.092	33.999	0.005	Manual	Sensor Status	Fundamental Activity
+878	15:16:21	0.094	33.999	0.005	Manual	Sensor Status	Fundamental Activity
+879	15:16:22	0.096	33.999	0.005	Manual	Sensor Status	Fundamental Activity
+880	15:16:23	0.098	33.999	0.005	Manual	Sensor Status	Fundamental Activity
+881	15:16:24	0.099	33.999	0.005	Manual	Sensor Status	Fundamental Activity
+882	15:16:25	0.101	33.999	0.005	Manual	Sensor Status	Fundamental Activity
+883	15:16:26	0.103	33.999	0.005	Manual	Sensor Status	Fundamental Activity
+884	15:16:27	0.104	33.999	0.005	Manual	Sensor Status	Fundamental Activity
+885	15:16:28	0.107	33.999	0.006	Manual	Sensor Status	Fundamental Activity
+886	15:16:29	0.108	33.999	0.006	Manual	Sensor Status	Fundamental Activity
+887	15:16:30	0.109	33.999	0.006	Manual	Sensor Status	Fundamental Activity
+888	15:16:31	0.111	33.999	0.006	Manual	Sensor Status	Fundamental Activity
+889	15:16:32	0.113	33.999	0.006	Manual	Sensor Status	Fundamental Activity
+890	15:16:33	0.115	33.999	0.006	Manual	Sensor Status	Fundamental Activity
+891	15:16:34	0.116	33.999	0.006	Manual	Sensor Status	Fundamental Activity
+892	15:16:35	0.118	33.999	0.006	Manual	Sensor Status	Fundamental Activity
+893	15:16:36	0.120	33.999	0.006	Manual	Sensor Status	Fundamental Activity
+894	15:16:37	0.121	33.999	0.007	Manual	Sensor Status	Fundamental Activity
+895	15:16:38	0.123	33.999	0.007	Manual	Sensor Status	Fundamental Activity
+896	15:16:39	0.124	33.999	0.007	Manual	Sensor Status	Fundamental Activity
+897	15:16:40	0.127	33.999	0.007	Manual	Sensor Status	Fundamental Activity
+898	15:16:41	0.128	33.999	0.007	Manual	Sensor Status	Fundamental Activity
+899	15:16:42	0.130	33.999	0.007	Manual	Sensor Status	Fundamental Activity
+900	15:16:43	0.131	33.999	0.007	Manual	Sensor Status	Fundamental Activity
+901	15:16:44	0.133	33.999	0.007	Manual	Sensor Status	Fundamental Activity
+902	15:16:45	0.135	33.999	0.008	Manual	Sensor Status	Fundamental Activity
+903	15:16:46	0.137	33.999	0.008	Manual	Sensor Status	Fundamental Activity
+904	15:16:47	0.138	33.999	0.008	Manual	Sensor Status	Fundamental Activity
+905	15:16:48	0.139	33.999	0.008	Manual	Sensor Status	Fundamental Activity
+906	15:16:49	0.141	33.999	0.008	Manual	Sensor Status	Fundamental Activity
+907	15:16:50	0.142	33.999	0.008	Manual	Sensor Status	Fundamental Activity
+908	15:16:51	0.144	33.999	0.008	Manual	Sensor Status	Fundamental Activity
+909	15:16:52	0.146	33.999	0.009	Manual	Sensor Status	Fundamental Activity
+910	15:16:53	0.148	33.999	0.009	Manual	Sensor Status	Fundamental Activity
+911	15:16:54	0.150	33.999	0.009	Manual	Sensor Status	Fundamental Activity
+912	15:16:55	0.151	33.999	0.009	Manual	Sensor Status	Fundamental Activity
+913	15:16:56	0.154	33.999	0.009	Manual	Sensor Status	Fundamental Activity
+914	15:16:57	0.155	33.999	0.009	Manual	Sensor Status	Fundamental Activity
+915	15:16:58	0.157	33.999	0.009	Manual	Sensor Status	Fundamental Activity
+916	15:16:59	0.159	33.999	0.010	Manual	Sensor Status	Fundamental Activity
+917	15:17:00	0.159	33.999	0.010	Manual	Sensor Status	Fundamental Activity
+918	15:17:01	0.162	33.999	0.010	Manual	Sensor Status	Fundamental Activity
+919	15:17:02	0.164	33.999	0.010	Manual	Sensor Status	Fundamental Activity
+920	15:17:03	0.166	33.999	0.010	Manual	Sensor Status	Fundamental Activity
+921	15:17:04	0.167	33.999	0.010	Manual	Sensor Status	Fundamental Activity
+922	15:17:05	0.169	33.999	0.011	Manual	Sensor Status	Fundamental Activity
+923	15:17:06	0.172	33.999	0.011	Manual	Sensor Status	Fundamental Activity
+924	15:17:07	0.173	33.999	0.011	Manual	Sensor Status	Fundamental Activity
+925	15:17:08	0.176	33.999	0.011	Manual	Sensor Status	Fundamental Activity
+926	15:17:09	0.178	33.999	0.011	Manual	Sensor Status	Fundamental Activity
+927	15:17:10	0.179	33.999	0.012	Manual	Sensor Status	Fundamental Activity
+928	15:17:11	0.182	33.999	0.012	Manual	Sensor Status	Fundamental Activity
+929	15:17:12	0.184	33.999	0.012	Manual	Sensor Status	Fundamental Activity
+930	15:17:13	0.186	33.999	0.012	Manual	Sensor Status	Fundamental Activity
+931	15:17:14	0.187	33.999	0.012	Manual	Sensor Status	Fundamental Activity
+932	15:17:15	0.191	33.999	0.012	Manual	Sensor Status	Fundamental Activity
+933	15:17:16	0.191	33.999	0.013	Manual	Sensor Status	Fundamental Activity
+934	15:17:17	0.195	33.999	0.013	Manual	Sensor Status	Fundamental Activity
+935	15:17:18	0.195	33.999	0.013	Manual	Sensor Status	Fundamental Activity
+936	15:17:19	0.199	33.999	0.013	Manual	Sensor Status	Fundamental Activity
+937	15:17:20	0.200	33.999	0.013	Manual	Sensor Status	Fundamental Activity
+938	15:17:21	0.203	33.999	0.014	Manual	Sensor Status	Fundamental Activity
+939	15:17:22	0.204	33.999	0.014	Manual	Sensor Status	Fundamental Activity
+940	15:17:23	0.207	33.999	0.014	Manual	Sensor Status	Fundamental Activity
+941	15:17:24	0.210	33.999	0.014	Manual	Sensor Status	Fundamental Activity
+942	15:17:25	0.212	33.999	0.014	Manual	Sensor Status	Fundamental Activity
+943	15:17:26	0.215	33.999	0.015	Manual	Sensor Status	Fundamental Activity
+944	15:17:27	0.218	33.999	0.015	Manual	Sensor Status	Fundamental Activity
+945	15:17:28	0.220	33.999	0.015	Manual	Sensor Status	Fundamental Activity
+946	15:17:29	0.224	33.999	0.015	Manual	Sensor Status	Fundamental Activity
+947	15:17:30	0.227	33.999	0.016	Manual	Sensor Status	Fundamental Activity
+948	15:17:31	0.231	33.999	0.016	Manual	Sensor Status	Fundamental Activity
+949	15:17:32	0.233	33.999	0.016	Manual	Sensor Status	Fundamental Activity
+950	15:17:33	0.236	33.999	0.016	Manual	Sensor Status	Fundamental Activity
+951	15:17:34	0.240	33.999	0.016	Manual	Sensor Status	Fundamental Activity
+952	15:17:35	0.243	33.999	0.017	Manual	Sensor Status	Fundamental Activity
+953	15:17:36	0.247	33.999	0.017	Manual	Sensor Status	Fundamental Activity
+954	15:17:37	0.249	33.999	0.017	Manual	Sensor Status	Fundamental Activity
+955	15:17:38	0.254	33.999	0.017	Manual	Sensor Status	Fundamental Activity
+956	15:17:39	0.259	33.999	0.018	Manual	Sensor Status	Fundamental Activity
+957	15:17:40	0.261	33.999	0.018	Manual	Sensor Status	Fundamental Activity
+958	15:17:41	0.265	33.999	0.018	Manual	Sensor Status	Fundamental Activity
+959	15:17:42	0.269	33.999	0.019	Manual	Sensor Status	Fundamental Activity
+960	15:17:43	0.271	33.999	0.019	Manual	Sensor Status	Fundamental Activity
+961	15:17:44	0.276	33.999	0.019	Manual	Sensor Status	Fundamental Activity
+962	15:17:45	0.279	33.999	0.019	Manual	Sensor Status	Fundamental Activity
+963	15:17:46	0.284	33.999	0.020	Manual	Sensor Status	Fundamental Activity
+964	15:17:47	0.287	33.999	0.020	Manual	Sensor Status	Fundamental Activity
+965	15:17:48	0.292	33.999	0.020	Manual	Sensor Status	Fundamental Activity
+966	15:17:49	0.294	33.999	0.020	Manual	Sensor Status	Fundamental Activity
+967	15:17:50	0.299	33.999	0.021	Manual	Sensor Status	Fundamental Activity
+968	15:17:51	0.304	33.999	0.021	Manual	Sensor Status	Fundamental Activity
+969	15:17:52	0.307	33.999	0.021	Manual	Sensor Status	Fundamental Activity
+970	15:17:53	0.311	33.999	0.022	Manual	Sensor Status	Fundamental Activity
+971	15:17:54	0.316	33.999	0.022	Manual	Sensor Status	Fundamental Activity
+972	15:17:55	0.318	33.999	0.022	Manual	Sensor Status	Fundamental Activity
+973	15:17:56	0.323	33.999	0.023	Manual	Sensor Status	Fundamental Activity
+974	15:17:57	0.326	33.999	0.023	Manual	Sensor Status	Fundamental Activity
+975	15:17:58	0.331	33.999	0.023	Manual	Sensor Status	Fundamental Activity
+976	15:17:59	0.334	33.999	0.024	Manual	Sensor Status	Fundamental Activity
+977	15:18:00	0.338	33.999	0.024	Manual	Sensor Status	Fundamental Activity
+978	15:18:01	0.342	33.999	0.024	Manual	Sensor Status	Fundamental Activity
+979	15:18:02	0.347	33.999	0.025	Manual	Sensor Status	Fundamental Activity
+980	15:18:03	0.352	33.999	0.025	Manual	Sensor Status	Fundamental Activity
+981	15:18:04	0.358	33.999	0.025	Manual	Sensor Status	Fundamental Activity
+982	15:18:05	0.363	33.999	0.026	Manual	Sensor Status	Fundamental Activity
+983	15:18:06	0.370	33.999	0.026	Manual	Sensor Status	Fundamental Activity
+984	15:18:07	0.376	33.999	0.026	Manual	Sensor Status	Fundamental Activity
+985	15:18:08	0.381	33.999	0.027	Manual	Sensor Status	Fundamental Activity
+986	15:18:09	0.386	33.999	0.027	Manual	Sensor Status	Fundamental Activity
+987	15:18:10	0.392	33.999	0.028	Manual	Sensor Status	Fundamental Activity
+988	15:18:11	0.398	33.999	0.028	Manual	Sensor Status	Fundamental Activity
+989	15:18:12	0.401	33.999	0.028	Manual	Sensor Status	Fundamental Activity
+990	15:18:13	0.408	33.999	0.029	Manual	Sensor Status	Fundamental Activity
+991	15:18:14	0.412	33.999	0.029	Manual	Sensor Status	Fundamental Activity
+992	15:18:15	0.418	33.999	0.030	Manual	Sensor Status	Fundamental Activity
+993	15:18:16	0.423	33.999	0.030	Manual	Sensor Status	Fundamental Activity
+994	15:18:17	0.429	33.999	0.030	Manual	Sensor Status	Fundamental Activity
+995	15:18:18	0.435	33.999	0.031	Manual	Sensor Status	Fundamental Activity
+996	15:18:19	0.441	33.999	0.031	Manual	Sensor Status	Fundamental Activity
+997	15:18:20	0.445	33.999	0.032	Manual	Sensor Status	Fundamental Activity
+998	15:18:21	0.450	33.999	0.032	Manual	Sensor Status	Fundamental Activity
+999	15:18:22	0.457	33.999	0.033	Manual	Sensor Status	Fundamental Activity
+1000	15:18:23	0.462	33.999	0.033	Manual	Sensor Status	Fundamental Activity
+1001	15:18:24	0.469	33.999	0.034	Manual	Sensor Status	Fundamental Activity
+1002	15:18:25	0.474	33.999	0.034	Manual	Sensor Status	Fundamental Activity
+1003	15:18:26	0.479	33.999	0.035	Manual	Sensor Status	Fundamental Activity
+1004	15:18:27	0.486	33.999	0.035	Manual	Sensor Status	Fundamental Activity
+1005	15:18:28	0.493	33.999	0.036	Manual	Sensor Status	Fundamental Activity
+1006	15:18:29	0.498	33.999	0.036	Manual	Sensor Status	Fundamental Activity
+1007	15:18:30	0.504	33.999	0.037	Manual	Sensor Status	Fundamental Activity
+1008	15:18:31	0.510	33.999	0.037	Manual	Sensor Status	Fundamental Activity
+1009	15:18:32	0.516	33.999	0.038	Manual	Sensor Status	Fundamental Activity
+1010	15:18:33	0.523	33.999	0.038	Manual	Sensor Status	Fundamental Activity
+1011	15:18:34	0.526	33.999	0.039	Manual	Sensor Status	Fundamental Activity
+1012	15:18:35	0.532	33.999	0.039	Manual	Sensor Status	Fundamental Activity
+1013	15:18:36	0.537	33.999	0.040	Manual	Sensor Status	Fundamental Activity
+1014	15:18:37	0.542	33.999	0.040	Manual	Sensor Status	Fundamental Activity
+1015	15:18:38	0.548	33.999	0.041	Manual	Sensor Status	Fundamental Activity
+1016	15:18:39	0.551	33.999	0.041	Manual	Sensor Status	Fundamental Activity
+1017	15:18:40	0.555	33.999	0.042	Manual	Sensor Status	Fundamental Activity
+1018	15:18:41	0.560	33.999	0.042	Manual	Sensor Status	Fundamental Activity
+1019	15:18:42	0.566	33.999	0.043	Manual	Sensor Status	Fundamental Activity
+1020	15:18:43	0.571	33.999	0.044	Manual	Sensor Status	Fundamental Activity
+1021	15:18:44	0.575	33.999	0.044	Manual	Sensor Status	Fundamental Activity
+1022	15:18:45	0.580	33.999	0.045	Manual	Sensor Status	Fundamental Activity
+1023	15:18:46	0.586	33.999	0.045	Manual	Sensor Status	Fundamental Activity
+1024	15:18:47	0.590	33.999	0.046	Manual	Sensor Status	Fundamental Activity
+1025	15:18:48	0.596	33.999	0.046	Manual	Sensor Status	Fundamental Activity
+1026	15:18:49	0.601	33.999	0.047	Manual	Sensor Status	Fundamental Activity
+1027	15:18:50	0.607	33.999	0.048	Manual	Sensor Status	Fundamental Activity
+1028	15:18:51	0.609	33.999	0.048	Manual	Sensor Status	Fundamental Activity
+1029	15:18:52	0.616	33.999	0.049	Manual	Sensor Status	Fundamental Activity
+1030	15:18:53	0.620	33.999	0.049	Manual	Sensor Status	Fundamental Activity
+1031	15:18:54	0.624	33.999	0.050	Manual	Sensor Status	Fundamental Activity
+1032	15:18:55	0.629	33.999	0.051	Manual	Sensor Status	Fundamental Activity
+1033	15:18:56	0.634	33.999	0.051	Manual	Sensor Status	Fundamental Activity
+1034	15:18:57	0.637	33.999	0.052	Manual	Sensor Status	Fundamental Activity
+1035	15:18:58	0.644	33.999	0.053	Manual	Sensor Status	Fundamental Activity
+1036	15:18:59	0.649	33.999	0.053	Manual	Sensor Status	Fundamental Activity
+1037	15:19:00	0.655	33.999	0.054	Manual	Sensor Status	Fundamental Activity
+1038	15:19:01	0.660	33.999	0.055	Manual	Sensor Status	Fundamental Activity
+1039	15:19:02	0.665	33.999	0.055	Manual	Sensor Status	Fundamental Activity
+1040	15:19:03	0.669	33.999	0.056	Manual	Sensor Status	Fundamental Activity
+1041	15:19:04	0.676	33.999	0.057	Manual	Sensor Status	Fundamental Activity
+1042	15:19:05	0.682	33.999	0.057	Manual	Sensor Status	Fundamental Activity
+1043	15:19:06	0.689	33.999	0.058	Manual	Sensor Status	Fundamental Activity
+1044	15:19:07	0.696	33.999	0.059	Manual	Sensor Status	Fundamental Activity
+1045	15:19:08	0.701	33.999	0.059	Manual	Sensor Status	Fundamental Activity
+1046	15:19:09	0.706	33.999	0.060	Manual	Sensor Status	Fundamental Activity
+1047	15:19:10	0.711	33.999	0.061	Manual	Sensor Status	Fundamental Activity
+1048	15:19:11	0.716	33.999	0.061	Manual	Sensor Status	Fundamental Activity
+1049	15:19:12	0.722	33.999	0.062	Manual	Sensor Status	Fundamental Activity
+1050	15:19:13	0.727	33.999	0.063	Manual	Sensor Status	Fundamental Activity
+1051	15:19:14	0.732	33.999	0.064	Manual	Sensor Status	Fundamental Activity
+1052	15:19:15	0.739	33.999	0.064	Manual	Sensor Status	Fundamental Activity
+1053	15:19:16	0.746	33.999	0.065	Manual	Sensor Status	Fundamental Activity
+1054	15:19:17	0.750	33.999	0.066	Manual	Sensor Status	Fundamental Activity
+1055	15:19:18	0.758	33.999	0.067	Manual	Sensor Status	Fundamental Activity
+1056	15:19:19	0.765	33.999	0.067	Manual	Sensor Status	Fundamental Activity
+1057	15:19:20	0.774	33.999	0.068	Manual	Sensor Status	Fundamental Activity
+1058	15:19:21	0.781	33.999	0.069	Manual	Sensor Status	Fundamental Activity
+1059	15:19:22	0.789	33.999	0.070	Manual	Sensor Status	Fundamental Activity
+1060	15:19:23	0.798	33.999	0.071	Manual	Sensor Status	Fundamental Activity
+1061	15:19:24	0.805	33.999	0.071	Manual	Sensor Status	Fundamental Activity
+1062	15:19:25	0.815	33.999	0.072	Manual	Sensor Status	Fundamental Activity
+1063	15:19:26	0.823	33.999	0.073	Manual	Sensor Status	Fundamental Activity
+1064	15:19:27	0.830	33.999	0.074	Manual	Sensor Status	Fundamental Activity
+1065	15:19:28	0.839	33.999	0.075	Manual	Sensor Status	Fundamental Activity
+1066	15:19:29	0.849	33.999	0.076	Manual	Sensor Status	Fundamental Activity
+1067	15:19:30	0.858	33.999	0.076	Manual	Sensor Status	Fundamental Activity
+1068	15:19:31	0.867	33.999	0.077	Manual	Sensor Status	Fundamental Activity
+1069	15:19:32	0.874	33.884	0.078	Manual	Sensor Status	Fundamental Activity
+1070	15:19:33	0.884	33.695	0.079	Manual	Sensor Status	Fundamental Activity
+1071	15:19:34	0.890	33.695	0.080	Manual	Sensor Status	Fundamental Activity
+1072	15:19:35	0.896	33.695	0.081	Manual	Sensor Status	Fundamental Activity
+1073	15:19:36	0.901	33.695	0.082	Manual	Sensor Status	Fundamental Activity
+1074	15:19:37	0.905	33.695	0.083	Manual	Sensor Status	Fundamental Activity
+1075	15:19:38	0.908	33.695	0.083	Manual	Sensor Status	Fundamental Activity
+1076	15:19:39	0.914	33.695	0.084	Manual	Sensor Status	Fundamental Activity
+1077	15:19:40	0.919	33.695	0.085	Manual	Sensor Status	Fundamental Activity
+1078	15:19:41	0.923	33.695	0.086	Manual	Sensor Status	Fundamental Activity
+1079	15:19:42	0.930	33.695	0.087	Manual	Sensor Status	Fundamental Activity
+1080	15:19:43	0.937	33.695	0.088	Manual	Sensor Status	Fundamental Activity
+1081	15:19:44	0.944	33.695	0.089	Manual	Sensor Status	Fundamental Activity
+1082	15:19:45	0.951	33.695	0.090	Manual	Sensor Status	Fundamental Activity
+1083	15:19:46	0.958	33.695	0.091	Manual	Sensor Status	Fundamental Activity
+1084	15:19:47	0.967	33.695	0.092	Manual	Sensor Status	Fundamental Activity
+1085	15:19:48	0.976	33.695	0.093	Manual	Sensor Status	Fundamental Activity
+1086	15:19:49	0.982	33.695	0.094	Manual	Sensor Status	Fundamental Activity
+1087	15:19:50	0.992	33.695	0.095	Manual	Sensor Status	Fundamental Activity
+1088	15:19:51	0.999	33.695	0.096	Manual	Sensor Status	Fundamental Activity
+1089	15:19:52	1.007	33.588	0.097	Manual	Sensor Status	Fundamental Activity
+1090	15:19:53	1.014	33.588	0.098	Manual	Sensor Status	Fundamental Activity
+1091	15:19:54	1.022	33.588	0.099	Manual	Sensor Status	Fundamental Activity
+1092	15:19:55	1.028	33.588	0.100	Manual	Sensor Status	Fundamental Activity
+1093	15:19:56	1.034	33.588	0.101	Manual	Sensor Status	Fundamental Activity
+1094	15:19:57	1.039	33.588	0.102	Manual	Sensor Status	Fundamental Activity
+1095	15:19:58	1.045	33.588	0.103	Manual	Sensor Status	Fundamental Activity
+1096	15:19:59	1.051	33.538	0.104	Manual	Sensor Status	Fundamental Activity
+1097	15:20:00	1.056	33.488	0.105	Manual	Sensor Status	Fundamental Activity
+1098	15:20:01	1.060	33.488	0.106	Manual	Sensor Status	Fundamental Activity
+1099	15:20:02	1.062	33.488	0.107	Manual	Sensor Status	Fundamental Activity
+1100	15:20:03	1.065	33.488	0.108	Manual	Sensor Status	Fundamental Activity
+1101	15:20:04	1.068	33.488	0.109	Manual	Sensor Status	Fundamental Activity
+1102	15:20:05	1.071	33.488	0.110	Manual	Sensor Status	Fundamental Activity
+1103	15:20:06	1.076	33.488	0.112	Manual	Sensor Status	Fundamental Activity
+1104	15:20:07	1.079	33.488	0.113	Manual	Sensor Status	Fundamental Activity
+1105	15:20:08	1.082	33.488	0.114	Manual	Sensor Status	Fundamental Activity
+1106	15:20:09	1.083	33.488	0.115	Manual	Sensor Status	Fundamental Activity
+1107	15:20:10	1.086	33.488	0.116	Manual	Sensor Status	Fundamental Activity
+1108	15:20:11	1.088	33.488	0.117	Manual	Sensor Status	Fundamental Activity
+1109	15:20:12	1.091	33.488	0.118	Manual	Sensor Status	Fundamental Activity
+1110	15:20:13	1.092	33.488	0.119	Manual	Sensor Status	Fundamental Activity
+1111	15:20:14	1.093	33.488	0.120	Manual	Sensor Status	Fundamental Activity
+1112	15:20:15	1.095	33.488	0.121	Manual	Sensor Status	Fundamental Activity
+1113	15:20:16	1.098	33.488	0.122	Manual	Sensor Status	Fundamental Activity
+1114	15:20:17	1.098	33.488	0.123	Manual	Sensor Status	Fundamental Activity
+1115	15:20:18	1.101	33.488	0.125	Manual	Sensor Status	Fundamental Activity
+1116	15:20:19	1.102	33.488	0.126	Manual	Sensor Status	Fundamental Activity
+1117	15:20:20	1.104	33.488	0.127	Manual	Sensor Status	Fundamental Activity
+1118	15:20:21	1.105	33.488	0.128	Manual	Sensor Status	Fundamental Activity
+1119	15:20:22	1.108	33.488	0.129	Manual	Sensor Status	Fundamental Activity
+1120	15:20:23	1.111	33.488	0.130	Manual	Sensor Status	Fundamental Activity
+1121	15:20:24	1.113	33.488	0.131	Manual	Sensor Status	Fundamental Activity
+1122	15:20:25	1.118	33.488	0.132	Manual	Sensor Status	Fundamental Activity
+1123	15:20:26	1.119	33.488	0.133	Manual	Sensor Status	Fundamental Activity
+1124	15:20:27	1.120	33.488	0.135	Manual	Sensor Status	Fundamental Activity
+1125	15:20:28	1.122	33.488	0.136	Manual	Sensor Status	Fundamental Activity
+1126	15:20:29	1.126	33.488	0.001	Manual	Sensor Status	Fundamental Activity
+1127	15:20:30	1.129	33.488	0.002	Manual	Sensor Status	Fundamental Activity
+1128	15:20:31	1.132	33.488	0.003	Manual	Sensor Status	Fundamental Activity
+1129	15:20:32	1.136	33.488	0.005	Manual	Sensor Status	Fundamental Activity
+1130	15:20:33	1.139	33.488	0.006	Manual	Sensor Status	Fundamental Activity
+1131	15:20:34	1.143	33.488	0.007	Manual	Sensor Status	Fundamental Activity
+1132	15:20:35	1.146	33.488	0.008	Manual	Sensor Status	Fundamental Activity
+1133	15:20:36	1.147	33.488	0.009	Manual	Sensor Status	Fundamental Activity
+1134	15:20:37	1.152	33.488	0.010	Manual	Sensor Status	Fundamental Activity
+1135	15:20:38	1.156	33.488	0.012	Manual	Sensor Status	Fundamental Activity
+1136	15:20:39	1.159	33.488	0.013	Manual	Sensor Status	Fundamental Activity
+1137	15:20:40	1.165	33.488	0.014	Manual	Sensor Status	Fundamental Activity
+1138	15:20:41	1.168	33.488	0.015	Manual	Sensor Status	Fundamental Activity
+1139	15:20:42	1.171	33.488	0.016	Manual	Sensor Status	Fundamental Activity
+1140	15:20:43	1.177	33.488	0.017	Manual	Sensor Status	Fundamental Activity
+1141	15:20:44	1.180	33.488	0.019	Manual	Sensor Status	Fundamental Activity
+1142	15:20:45	1.183	33.488	0.020	Manual	Sensor Status	Fundamental Activity
+1143	15:20:46	1.186	33.488	0.021	Manual	Sensor Status	Fundamental Activity
+1144	15:20:47	1.191	33.488	0.022	Manual	Sensor Status	Fundamental Activity
+1145	15:20:48	1.195	33.488	0.023	Manual	Sensor Status	Fundamental Activity
+1146	15:20:49	1.198	33.488	0.024	Manual	Sensor Status	Fundamental Activity
+1147	15:20:50	1.198	33.488	0.026	Manual	Sensor Status	Fundamental Activity
+1148	15:20:51	1.201	33.488	0.027	Manual	Sensor Status	Fundamental Activity
+1149	15:20:52	1.202	33.488	0.028	Manual	Sensor Status	Fundamental Activity
+1150	15:20:53	1.203	33.488	0.029	Manual	Sensor Status	Fundamental Activity
+1151	15:20:54	1.205	33.488	0.030	Manual	Sensor Status	Fundamental Activity
+1152	15:20:55	1.207	33.488	0.032	Manual	Sensor Status	Fundamental Activity
+1153	15:20:56	1.209	33.488	0.033	Manual	Sensor Status	Fundamental Activity
+1154	15:20:57	1.212	33.488	0.034	Manual	Sensor Status	Fundamental Activity
+1155	15:20:58	1.214	33.488	0.035	Manual	Sensor Status	Fundamental Activity
+1156	15:20:59	1.211	33.488	0.036	Manual	Sensor Status	Fundamental Activity
+1157	15:21:00	1.217	33.488	0.038	Manual	Sensor Status	Fundamental Activity
+1158	15:21:01	1.220	33.488	0.039	Manual	Sensor Status	Fundamental Activity
+1159	15:21:02	1.223	33.488	0.040	Manual	Sensor Status	Fundamental Activity
+1160	15:21:03	1.225	33.488	0.041	Manual	Sensor Status	Fundamental Activity
+1161	15:21:04	1.228	33.488	0.043	Manual	Sensor Status	Fundamental Activity
+1162	15:21:05	1.230	33.488	0.044	Manual	Sensor Status	Fundamental Activity
+1163	15:21:06	1.231	33.488	0.045	Manual	Sensor Status	Fundamental Activity
+1164	15:21:07	1.230	33.488	0.046	Manual	Sensor Status	Fundamental Activity
+1165	15:21:08	1.234	33.488	0.047	Manual	Sensor Status	Fundamental Activity
+1166	15:21:09	1.236	33.378	0.049	Manual	Sensor Status	Fundamental Activity
+1167	15:21:10	1.241	33.378	0.050	Manual	Sensor Status	Fundamental Activity
+1168	15:21:11	1.246	33.378	0.051	Manual	Sensor Status	Fundamental Activity
+1169	15:21:12	1.248	33.378	0.053	Manual	Sensor Status	Fundamental Activity
+1170	15:21:13	1.251	33.378	0.054	Manual	Sensor Status	Fundamental Activity
+1171	15:21:14	1.254	33.378	0.055	Manual	Sensor Status	Fundamental Activity
+1172	15:21:15	1.257	33.378	0.056	Manual	Sensor Status	Fundamental Activity
+1173	15:21:16	1.258	33.378	0.057	Manual	Sensor Status	Fundamental Activity
+1174	15:21:17	1.258	33.378	0.059	Manual	Sensor Status	Fundamental Activity
+1175	15:21:18	1.261	33.378	0.060	Manual	Sensor Status	Fundamental Activity
+1176	15:21:19	1.261	33.378	0.061	Manual	Sensor Status	Fundamental Activity
+1177	15:21:20	1.262	33.378	0.062	Manual	Sensor Status	Fundamental Activity
+1178	15:21:21	1.262	33.271	0.064	Manual	Sensor Status	Fundamental Activity
+1179	15:21:22	1.265	33.271	0.065	Manual	Sensor Status	Fundamental Activity
+1180	15:21:23	1.267	33.271	0.066	Manual	Sensor Status	Fundamental Activity
+1181	15:21:24	1.270	33.271	0.068	Manual	Sensor Status	Fundamental Activity
+1182	15:21:25	1.269	33.271	0.069	Manual	Sensor Status	Fundamental Activity
+1183	15:21:26	1.269	33.271	0.070	Manual	Sensor Status	Fundamental Activity
+1184	15:21:27	1.271	33.271	0.071	Manual	Sensor Status	Fundamental Activity
+1185	15:21:28	1.271	33.271	0.073	Manual	Sensor Status	Fundamental Activity
+1186	15:21:29	1.273	33.271	0.074	Manual	Sensor Status	Fundamental Activity
+1187	15:21:30	1.274	33.271	0.075	Manual	Sensor Status	Fundamental Activity
+1188	15:21:31	1.275	33.271	0.076	Manual	Sensor Status	Fundamental Activity
+1189	15:21:32	1.276	33.271	0.078	Manual	Sensor Status	Fundamental Activity
+1190	15:21:33	1.277	33.271	0.079	Manual	Sensor Status	Fundamental Activity
+1191	15:21:34	1.275	33.271	0.080	Manual	Sensor Status	Fundamental Activity
+1192	15:21:35	1.276	33.271	0.082	Manual	Sensor Status	Fundamental Activity
+1193	15:21:36	1.276	33.271	0.083	Manual	Sensor Status	Fundamental Activity
+1194	15:21:37	1.276	33.271	0.084	Manual	Sensor Status	Fundamental Activity
+1195	15:21:38	1.274	33.271	0.085	Manual	Sensor Status	Fundamental Activity
+1196	15:21:39	1.274	33.271	0.087	Manual	Sensor Status	Fundamental Activity
+1197	15:21:40	1.274	33.271	0.088	Manual	Sensor Status	Fundamental Activity
+1198	15:21:41	1.273	33.271	0.089	Manual	Sensor Status	Fundamental Activity
+1199	15:21:42	1.274	33.271	0.090	Manual	Sensor Status	Fundamental Activity
+1200	15:21:43	1.272	33.271	0.092	Manual	Sensor Status	Fundamental Activity
+1201	15:21:44	1.272	33.271	0.093	Manual	Sensor Status	Fundamental Activity
+1202	15:21:45	1.272	33.271	0.094	Manual	Sensor Status	Fundamental Activity
+1203	15:21:46	1.273	33.271	0.096	Manual	Sensor Status	Fundamental Activity
+1204	15:21:47	1.272	33.271	0.097	Manual	Sensor Status	Fundamental Activity
+1205	15:21:48	1.270	33.271	0.098	Manual	Sensor Status	Fundamental Activity
+1206	15:21:49	1.270	33.271	0.099	Manual	Sensor Status	Fundamental Activity
+1207	15:21:50	1.272	33.271	0.101	Manual	Sensor Status	Fundamental Activity
+1208	15:21:51	1.271	33.271	0.102	Manual	Sensor Status	Fundamental Activity
+1209	15:21:52	1.270	33.271	0.103	Manual	Sensor Status	Fundamental Activity
+1210	15:21:53	1.271	33.271	0.104	Manual	Sensor Status	Fundamental Activity
+1211	15:21:54	1.271	33.271	0.106	Manual	Sensor Status	Fundamental Activity
+1212	15:21:55	1.272	33.271	0.107	Manual	Sensor Status	Fundamental Activity
+1213	15:21:56	1.271	33.271	0.108	Manual	Sensor Status	Fundamental Activity
+1214	15:21:57	1.271	33.271	0.110	Manual	Sensor Status	Fundamental Activity
+1215	15:21:58	1.273	33.271	0.111	Manual	Sensor Status	Fundamental Activity
+1216	15:21:59	1.274	33.271	0.112	Manual	Sensor Status	Fundamental Activity
+1217	15:22:00	1.274	33.271	0.113	Manual	Sensor Status	Fundamental Activity
+1218	15:22:01	1.274	33.271	0.115	Manual	Sensor Status	Fundamental Activity
+1219	15:22:02	1.274	33.271	0.116	Manual	Sensor Status	Fundamental Activity
+1220	15:22:03	1.275	33.271	0.117	Manual	Sensor Status	Fundamental Activity
+1221	15:22:04	1.274	33.271	0.118	Manual	Sensor Status	Fundamental Activity
+1222	15:22:05	1.274	33.271	0.120	Manual	Sensor Status	Fundamental Activity
+1223	15:22:06	1.274	33.271	0.121	Manual	Sensor Status	Fundamental Activity
+1224	15:22:07	1.273	33.271	0.122	Manual	Sensor Status	Fundamental Activity
+1225	15:22:08	1.275	33.271	0.124	Manual	Sensor Status	Fundamental Activity
+1226	15:22:09	1.277	33.271	0.125	Manual	Sensor Status	Fundamental Activity
+1227	15:22:10	1.275	33.271	0.126	Manual	Sensor Status	Fundamental Activity
+1228	15:22:11	1.274	33.271	0.127	Manual	Sensor Status	Fundamental Activity
+1229	15:22:12	1.276	33.271	0.129	Manual	Sensor Status	Fundamental Activity
+1230	15:22:13	1.276	33.271	0.130	Manual	Sensor Status	Fundamental Activity
+1231	15:22:14	1.279	33.271	0.131	Manual	Sensor Status	Fundamental Activity
+1232	15:22:15	1.281	33.271	0.132	Manual	Sensor Status	Fundamental Activity
+1233	15:22:16	1.285	33.271	0.134	Manual	Sensor Status	Fundamental Activity
+1234	15:22:17	1.290	33.271	0.135	Manual	Sensor Status	Fundamental Activity
+1235	15:22:18	1.293	33.271	0.136	Manual	Sensor Status	Fundamental Activity
+1236	15:22:19	1.295	33.271	0.138	Manual	Sensor Status	Fundamental Activity
+1237	15:22:20	1.296	33.271	0.139	Manual	Sensor Status	Fundamental Activity
+1238	15:22:21	1.299	33.271	0.140	Manual	Sensor Status	Fundamental Activity
+1239	15:22:22	1.303	33.271	0.142	Manual	Sensor Status	Fundamental Activity
+1240	15:22:23	1.309	33.271	0.143	Manual	Sensor Status	Fundamental Activity
+1241	15:22:24	1.311	33.271	0.144	Manual	Sensor Status	Fundamental Activity
+1242	15:22:25	1.315	33.271	0.145	Manual	Sensor Status	Fundamental Activity
+1243	15:22:26	1.322	33.271	0.147	Manual	Sensor Status	Fundamental Activity
+1244	15:22:27	1.327	33.271	0.148	Manual	Sensor Status	Fundamental Activity
+1245	15:22:28	1.331	33.271	0.149	Manual	Sensor Status	Fundamental Activity
+1246	15:22:29	1.333	33.271	0.151	Manual	Sensor Status	Fundamental Activity
+1247	15:22:30	1.337	33.271	0.152	Manual	Sensor Status	Fundamental Activity
+1248	15:22:31	1.343	33.271	0.153	Manual	Sensor Status	Fundamental Activity
+1249	15:22:32	1.347	33.271	0.155	Manual	Sensor Status	Fundamental Activity
+1250	15:22:33	1.350	33.271	0.156	Manual	Sensor Status	Fundamental Activity
+1251	15:22:34	1.354	33.271	0.157	Manual	Sensor Status	Fundamental Activity
+1252	15:22:35	1.359	33.271	0.159	Manual	Sensor Status	Fundamental Activity
+1253	15:22:36	1.364	33.271	0.160	Manual	Sensor Status	Fundamental Activity
+1254	15:22:37	1.371	33.271	0.162	Manual	Sensor Status	Fundamental Activity
+1255	15:22:38	1.374	33.271	0.163	Manual	Sensor Status	Fundamental Activity
+1256	15:22:39	1.380	33.271	0.164	Manual	Sensor Status	Fundamental Activity
+1257	15:22:40	1.384	33.271	0.166	Manual	Sensor Status	Fundamental Activity
+1258	15:22:41	1.385	33.271	0.167	Manual	Sensor Status	Fundamental Activity
+1259	15:22:42	1.388	33.271	0.168	Manual	Sensor Status	Fundamental Activity
+1260	15:22:43	1.389	33.271	0.170	Manual	Sensor Status	Fundamental Activity
+1261	15:22:44	1.386	33.271	0.171	Manual	Sensor Status	Fundamental Activity
+1262	15:22:45	1.385	33.271	0.173	Manual	Sensor Status	Fundamental Activity
+1263	15:22:46	1.386	33.271	0.174	Manual	Sensor Status	Fundamental Activity
+1264	15:22:47	1.384	33.271	0.175	Manual	Sensor Status	Fundamental Activity
+1265	15:22:48	1.382	33.271	0.177	Manual	Sensor Status	Fundamental Activity
+1266	15:22:49	1.382	33.271	0.178	Manual	Sensor Status	Fundamental Activity
+1267	15:22:50	1.385	33.271	0.180	Manual	Sensor Status	Fundamental Activity
+1268	15:22:51	1.386	33.271	0.181	Manual	Sensor Status	Fundamental Activity
+1269	15:22:52	1.387	33.271	0.182	Manual	Sensor Status	Fundamental Activity
+1270	15:22:53	1.386	33.271	0.184	Manual	Sensor Status	Fundamental Activity
+1271	15:22:54	1.391	33.271	0.185	Manual	Sensor Status	Fundamental Activity
+1272	15:22:55	1.394	33.161	0.187	Manual	Sensor Status	Fundamental Activity
+1273	15:22:56	1.394	33.161	0.188	Manual	Sensor Status	Fundamental Activity
+1274	15:22:57	1.394	33.161	0.189	Manual	Sensor Status	Fundamental Activity
+1275	15:22:58	1.396	33.161	0.191	Manual	Sensor Status	Fundamental Activity
+1276	15:22:59	1.396	33.161	0.192	Manual	Sensor Status	Fundamental Activity
+1277	15:23:00	1.397	33.161	0.193	Manual	Sensor Status	Fundamental Activity
+1278	15:23:01	1.397	33.161	0.195	Manual	Sensor Status	Fundamental Activity
+1279	15:23:02	1.397	33.161	0.196	Manual	Sensor Status	Fundamental Activity
+1280	15:23:03	1.398	33.161	0.198	Manual	Sensor Status	Fundamental Activity
+1281	15:23:04	1.400	33.161	0.199	Manual	Sensor Status	Fundamental Activity
+1282	15:23:05	1.401	33.161	0.201	Manual	Sensor Status	Fundamental Activity
+1283	15:23:06	1.404	33.161	0.202	Manual	Sensor Status	Fundamental Activity
+1284	15:23:07	1.405	33.161	0.203	Manual	Sensor Status	Fundamental Activity
+1285	15:23:08	1.409	33.161	0.205	Manual	Sensor Status	Fundamental Activity
+1286	15:23:09	1.411	33.161	0.206	Manual	Sensor Status	Fundamental Activity
+1287	15:23:10	1.411	33.161	0.207	Manual	Sensor Status	Fundamental Activity
+1288	15:23:11	1.413	33.161	0.209	Manual	Sensor Status	Fundamental Activity
+1289	15:23:12	1.417	33.161	0.210	Manual	Sensor Status	Fundamental Activity
+1290	15:23:13	1.420	33.161	0.212	Manual	Sensor Status	Fundamental Activity
+1291	15:23:14	1.423	33.161	0.213	Manual	Sensor Status	Fundamental Activity
+1292	15:23:15	1.426	33.161	0.215	Manual	Sensor Status	Fundamental Activity
+1293	15:23:16	1.428	33.161	0.216	Manual	Sensor Status	Fundamental Activity
+1294	15:23:17	1.431	33.161	0.217	Manual	Sensor Status	Fundamental Activity
+1295	15:23:18	1.435	33.161	0.219	Manual	Sensor Status	Fundamental Activity
+1296	15:23:19	1.437	33.161	0.220	Manual	Sensor Status	Fundamental Activity
+1297	15:23:20	1.445	33.161	0.222	Manual	Sensor Status	Fundamental Activity
+1298	15:23:21	1.450	33.161	0.223	Manual	Sensor Status	Fundamental Activity
+1299	15:23:22	1.456	33.161	0.225	Manual	Sensor Status	Fundamental Activity
+1300	15:23:23	1.461	33.161	0.226	Manual	Sensor Status	Fundamental Activity
+1301	15:23:24	1.469	33.161	0.228	Manual	Sensor Status	Fundamental Activity
+1302	15:23:25	1.478	33.161	0.229	Manual	Sensor Status	Fundamental Activity
+1303	15:23:26	1.488	33.161	0.231	Manual	Sensor Status	Fundamental Activity
+1304	15:23:27	1.492	33.161	0.232	Manual	Sensor Status	Fundamental Activity
+1305	15:23:28	1.498	33.161	0.234	Manual	Sensor Status	Fundamental Activity
+1306	15:23:29	1.504	33.161	0.235	Manual	Sensor Status	Fundamental Activity
+1307	15:23:30	1.510	33.161	0.237	Manual	Sensor Status	Fundamental Activity
+1308	15:23:31	1.514	33.161	0.238	Manual	Sensor Status	Fundamental Activity
+1309	15:23:32	1.519	33.161	0.240	Manual	Sensor Status	Fundamental Activity
+1310	15:23:33	1.525	33.161	0.241	Manual	Sensor Status	Fundamental Activity
+1311	15:23:34	1.533	33.161	0.243	Manual	Sensor Status	Fundamental Activity
+1312	15:23:35	1.540	33.161	0.244	Manual	Sensor Status	Fundamental Activity
+1313	15:23:36	1.549	33.161	0.246	Manual	Sensor Status	Fundamental Activity
+1314	15:23:37	1.555	33.161	0.247	Manual	Sensor Status	Fundamental Activity
+1315	15:23:38	1.559	33.161	0.249	Manual	Sensor Status	Fundamental Activity
+1316	15:23:39	1.562	33.161	0.250	Manual	Sensor Status	Fundamental Activity
+1317	15:23:40	1.573	33.161	0.252	Manual	Sensor Status	Fundamental Activity
+1318	15:23:41	1.577	33.161	0.254	Manual	Sensor Status	Fundamental Activity
+1319	15:23:42	1.584	33.161	0.255	Manual	Sensor Status	Fundamental Activity
+1320	15:23:43	1.589	33.161	0.257	Manual	Sensor Status	Fundamental Activity
+1321	15:23:44	1.596	33.161	0.258	Manual	Sensor Status	Fundamental Activity
+1322	15:23:45	1.596	33.161	0.260	Manual	Sensor Status	Fundamental Activity
+1323	15:23:46	1.603	33.161	0.261	Manual	Sensor Status	Fundamental Activity
+1324	15:23:47	1.604	33.161	0.263	Manual	Sensor Status	Fundamental Activity
+1325	15:23:48	1.603	33.161	0.265	Manual	Sensor Status	Fundamental Activity
+1326	15:23:49	1.603	33.161	0.266	Manual	Sensor Status	Fundamental Activity
+1327	15:23:50	1.606	33.161	0.268	Manual	Sensor Status	Fundamental Activity
+1328	15:23:51	1.608	33.161	0.269	Manual	Sensor Status	Fundamental Activity
+1329	15:23:52	1.610	33.161	0.271	Manual	Sensor Status	Fundamental Activity
+1330	15:23:53	1.613	33.161	0.273	Manual	Sensor Status	Fundamental Activity
+1331	15:23:54	1.617	33.161	0.274	Manual	Sensor Status	Fundamental Activity
+1332	15:23:55	1.623	33.161	0.276	Manual	Sensor Status	Fundamental Activity
+1333	15:23:56	1.624	33.161	0.278	Manual	Sensor Status	Fundamental Activity
+1334	15:23:57	1.624	33.161	0.279	Manual	Sensor Status	Fundamental Activity
+1335	15:23:58	1.626	33.161	0.281	Manual	Sensor Status	Fundamental Activity
+1336	15:23:59	1.633	33.161	0.282	Manual	Sensor Status	Fundamental Activity
+1337	15:24:00	1.638	33.161	0.284	Manual	Sensor Status	Fundamental Activity
+1338	15:24:01	1.640	33.161	0.286	Manual	Sensor Status	Fundamental Activity
+1339	15:24:02	1.646	33.161	0.287	Manual	Sensor Status	Fundamental Activity
+1340	15:24:03	1.649	33.161	0.289	Manual	Sensor Status	Fundamental Activity
+1341	15:24:04	1.656	33.161	0.291	Manual	Sensor Status	Fundamental Activity
+1342	15:24:05	1.663	33.161	0.292	Manual	Sensor Status	Fundamental Activity
+1343	15:24:06	1.668	33.161	0.294	Manual	Sensor Status	Fundamental Activity
+1344	15:24:07	1.676	33.161	0.296	Manual	Sensor Status	Fundamental Activity
+1345	15:24:08	1.683	33.161	0.297	Manual	Sensor Status	Fundamental Activity
+1346	15:24:09	1.689	33.161	0.299	Manual	Sensor Status	Fundamental Activity
+1347	15:24:10	1.697	33.161	0.301	Manual	Sensor Status	Fundamental Activity
+1348	15:24:11	1.704	33.161	0.302	Manual	Sensor Status	Fundamental Activity
+1349	15:24:12	1.711	33.161	0.304	Manual	Sensor Status	Fundamental Activity
+1350	15:24:13	1.721	33.161	0.306	Manual	Sensor Status	Fundamental Activity
+1351	15:24:14	1.732	33.161	0.308	Manual	Sensor Status	Fundamental Activity
+1352	15:24:15	1.746	33.161	0.309	Manual	Sensor Status	Fundamental Activity
+1353	15:24:16	1.755	33.161	0.311	Manual	Sensor Status	Fundamental Activity
+1354	15:24:17	1.764	33.161	0.313	Manual	Sensor Status	Fundamental Activity
+1355	15:24:18	1.770	33.161	0.315	Manual	Sensor Status	Fundamental Activity
+1356	15:24:19	1.783	33.161	0.317	Manual	Sensor Status	Fundamental Activity
+1357	15:24:20	1.795	33.161	0.318	Manual	Sensor Status	Fundamental Activity
+1358	15:24:21	1.803	33.161	0.320	Manual	Sensor Status	Fundamental Activity
+1359	15:24:22	1.814	33.161	0.322	Manual	Sensor Status	Fundamental Activity
+1360	15:24:23	1.829	33.161	0.324	Manual	Sensor Status	Fundamental Activity
+1361	15:24:24	1.845	33.161	0.326	Manual	Sensor Status	Fundamental Activity
+1362	15:24:25	1.860	33.161	0.327	Manual	Sensor Status	Fundamental Activity
+1363	15:24:26	1.870	33.161	0.329	Manual	Sensor Status	Fundamental Activity
+1364	15:24:27	1.879	33.161	0.331	Manual	Sensor Status	Fundamental Activity
+1365	15:24:28	1.884	33.161	0.333	Manual	Sensor Status	Fundamental Activity
+1366	15:24:29	1.889	33.161	0.335	Manual	Sensor Status	Fundamental Activity
+1367	15:24:30	1.894	33.161	0.337	Manual	Sensor Status	Fundamental Activity
+1368	15:24:31	1.898	33.161	0.339	Manual	Sensor Status	Fundamental Activity
+1369	15:24:32	1.902	33.161	0.340	Manual	Sensor Status	Fundamental Activity
+1370	15:24:33	1.906	33.161	0.343	Manual	Sensor Status	Fundamental Activity
+1371	15:24:34	1.908	33.161	0.344	Manual	Sensor Status	Fundamental Activity
+1372	15:24:35	1.912	33.161	0.346	Manual	Sensor Status	Fundamental Activity
+1373	15:24:36	1.915	33.161	0.348	Manual	Sensor Status	Fundamental Activity
+1374	15:24:37	1.918	33.161	0.350	Manual	Sensor Status	Fundamental Activity
+1375	15:24:38	1.926	32.990	0.352	Manual	Sensor Status	Fundamental Activity
+1376	15:24:39	1.934	32.740	0.354	Manual	Sensor Status	Fundamental Activity
+1377	15:24:40	1.937	32.740	0.356	Manual	Sensor Status	Fundamental Activity
+1378	15:24:41	1.940	32.740	0.358	Manual	Sensor Status	Fundamental Activity
+1379	15:24:42	1.941	32.690	0.360	Manual	Sensor Status	Fundamental Activity
+1380	15:24:43	1.943	32.320	0.362	Manual	Sensor Status	Fundamental Activity
+1381	15:24:44	1.945	31.880	0.364	Manual	Sensor Status	Fundamental Activity
+1382	15:24:45	1.945	31.880	0.366	Manual	Sensor Status	Fundamental Activity
+1383	15:24:46	1.944	31.880	0.367	Manual	Sensor Status	Fundamental Activity
+1384	15:24:47	1.941	31.880	0.370	Manual	Sensor Status	Fundamental Activity
+1385	15:24:48	1.938	31.880	0.372	Manual	Sensor Status	Fundamental Activity
+1386	15:24:49	1.934	31.880	0.373	Manual	Sensor Status	Fundamental Activity
+1387	15:24:50	1.936	31.880	0.375	Manual	Sensor Status	Fundamental Activity
+1388	15:24:51	1.927	31.880	0.377	Manual	Sensor Status	Fundamental Activity
+1389	15:24:52	1.920	31.880	0.379	Manual	Sensor Status	Fundamental Activity
+1390	15:24:53	1.917	31.880	0.381	Manual	Sensor Status	Fundamental Activity
+1391	15:24:54	1.912	31.880	0.383	Manual	Sensor Status	Fundamental Activity
+1392	15:24:55	1.907	31.880	0.385	Manual	Sensor Status	Fundamental Activity
+1393	15:24:56	1.903	31.880	0.387	Manual	Sensor Status	Fundamental Activity
+1394	15:24:57	1.898	31.880	0.389	Manual	Sensor Status	Fundamental Activity
+1395	15:24:58	1.894	31.880	0.390	Manual	Sensor Status	Fundamental Activity
+1396	15:24:59	1.889	31.880	0.393	Manual	Sensor Status	Fundamental Activity
+1397	15:25:00	1.886	31.880	0.394	Manual	Sensor Status	Fundamental Activity
+1398	15:25:01	1.880	31.880	0.396	Manual	Sensor Status	Fundamental Activity
+1399	15:25:02	1.875	31.880	0.398	Manual	Sensor Status	Fundamental Activity
+1400	15:25:03	1.871	31.880	0.400	Manual	Sensor Status	Fundamental Activity
+1401	15:25:04	1.864	31.880	0.402	Manual	Sensor Status	Fundamental Activity
+1402	15:25:05	1.860	31.880	0.404	Manual	Sensor Status	Fundamental Activity
+1403	15:25:06	1.855	31.880	0.405	Manual	Sensor Status	Fundamental Activity
+1404	15:25:07	1.851	31.880	0.407	Manual	Sensor Status	Fundamental Activity
+1405	15:25:08	1.845	31.880	0.409	Manual	Sensor Status	Fundamental Activity
+1406	15:25:09	1.841	31.880	0.411	Manual	Sensor Status	Fundamental Activity
+1407	15:25:10	1.837	31.880	0.413	Manual	Sensor Status	Fundamental Activity
+1408	15:25:11	1.831	31.880	0.415	Manual	Sensor Status	Fundamental Activity
+1409	15:25:12	1.823	31.880	0.417	Manual	Sensor Status	Fundamental Activity
+1410	15:25:13	1.816	31.880	0.419	Manual	Sensor Status	Fundamental Activity
+1411	15:25:14	1.809	31.880	0.420	Manual	Sensor Status	Fundamental Activity
+1412	15:25:15	1.801	31.880	0.422	Manual	Sensor Status	Fundamental Activity
+1413	15:25:16	1.794	31.880	0.424	Manual	Sensor Status	Fundamental Activity
+1414	15:25:17	1.786	31.880	0.426	Manual	Sensor Status	Fundamental Activity
+1415	15:25:18	1.779	31.880	0.427	Manual	Sensor Status	Fundamental Activity
+1416	15:25:19	1.768	31.880	0.429	Manual	Sensor Status	Fundamental Activity
+1417	15:25:20	1.760	31.880	0.431	Manual	Sensor Status	Fundamental Activity
+1418	15:25:21	1.751	31.880	0.433	Manual	Sensor Status	Fundamental Activity
+1419	15:25:22	1.743	31.880	0.434	Manual	Sensor Status	Fundamental Activity
+1420	15:25:23	1.735	31.880	0.436	Manual	Sensor Status	Fundamental Activity
+1421	15:25:24	1.725	31.880	0.438	Manual	Sensor Status	Fundamental Activity
+1422	15:25:25	1.713	31.880	0.440	Manual	Sensor Status	Fundamental Activity
+1423	15:25:26	1.706	31.880	0.441	Manual	Sensor Status	Fundamental Activity
+1424	15:25:27	1.693	31.880	0.443	Manual	Sensor Status	Fundamental Activity
+1425	15:25:28	1.682	31.880	0.445	Manual	Sensor Status	Fundamental Activity
+1426	15:25:29	1.672	31.880	0.446	Manual	Sensor Status	Fundamental Activity
+1427	15:25:30	1.662	31.880	0.448	Manual	Sensor Status	Fundamental Activity
+1428	15:25:31	1.653	31.880	0.450	Manual	Sensor Status	Fundamental Activity
+1429	15:25:32	1.642	31.880	0.451	Manual	Sensor Status	Fundamental Activity
+1430	15:25:33	1.631	31.880	0.453	Manual	Sensor Status	Fundamental Activity
+1431	15:25:34	1.621	31.880	0.455	Manual	Sensor Status	Fundamental Activity
+1432	15:25:35	1.612	31.880	0.456	Manual	Sensor Status	Fundamental Activity
+1433	15:25:36	1.602	31.880	0.458	Manual	Sensor Status	Fundamental Activity
+1434	15:25:37	1.592	31.880	0.459	Manual	Sensor Status	Fundamental Activity
+1435	15:25:38	1.584	31.880	0.461	Manual	Sensor Status	Fundamental Activity
+1436	15:25:39	1.574	31.880	0.463	Manual	Sensor Status	Fundamental Activity
+1437	15:25:40	1.566	31.880	0.464	Manual	Sensor Status	Fundamental Activity
+1438	15:25:41	1.557	31.880	0.466	Manual	Sensor Status	Fundamental Activity
+1439	15:25:42	1.548	31.880	0.467	Manual	Sensor Status	Fundamental Activity
+1440	15:25:43	1.540	31.880	0.469	Manual	Sensor Status	Fundamental Activity
+1441	15:25:44	1.532	31.880	0.470	Manual	Sensor Status	Fundamental Activity
+1442	15:25:45	1.521	31.880	0.472	Manual	Sensor Status	Fundamental Activity
+1443	15:25:46	1.513	31.880	0.474	Manual	Sensor Status	Fundamental Activity
+1444	15:25:47	1.503	31.880	0.475	Manual	Sensor Status	Fundamental Activity
+1445	15:25:48	1.494	31.880	0.476	Manual	Sensor Status	Fundamental Activity
+1446	15:25:49	1.486	31.880	0.478	Manual	Sensor Status	Fundamental Activity
+1447	15:25:50	1.476	31.880	0.479	Manual	Sensor Status	Fundamental Activity
+1448	15:25:51	1.465	31.880	0.481	Manual	Sensor Status	Fundamental Activity
+1449	15:25:52	1.457	31.880	0.482	Manual	Sensor Status	Fundamental Activity
+1450	15:25:53	1.447	31.880	0.484	Manual	Sensor Status	Fundamental Activity
+1451	15:25:54	1.436	31.880	0.485	Manual	Sensor Status	Fundamental Activity
+1452	15:25:55	1.429	31.880	0.487	Manual	Sensor Status	Fundamental Activity
+1453	15:25:56	1.419	31.880	0.488	Manual	Sensor Status	Fundamental Activity
+1454	15:25:57	1.408	31.880	0.489	Manual	Sensor Status	Fundamental Activity
+1455	15:25:58	1.400	31.880	0.491	Manual	Sensor Status	Fundamental Activity
+1456	15:25:59	1.390	31.880	0.492	Manual	Sensor Status	Fundamental Activity
+1457	15:26:00	1.380	31.880	0.494	Manual	Sensor Status	Fundamental Activity
+1458	15:26:01	1.371	31.880	0.495	Manual	Sensor Status	Fundamental Activity
+1459	15:26:02	1.364	31.880	0.496	Manual	Sensor Status	Fundamental Activity
+1460	15:26:03	1.354	31.880	0.498	Manual	Sensor Status	Fundamental Activity
+1461	15:26:04	1.345	31.880	0.499	Manual	Sensor Status	Fundamental Activity
+1462	15:26:05	1.336	31.880	0.500	Manual	Sensor Status	Fundamental Activity
+1463	15:26:06	1.328	31.880	0.001	Manual	Sensor Status	Fundamental Activity
+1464	15:26:07	1.318	31.830	0.003	Manual	Sensor Status	Fundamental Activity
+1465	15:26:08	1.309	31.646	0.004	Manual	Sensor Status	Fundamental Activity
+1466	15:26:09	1.301	31.323	0.005	Manual	Sensor Status	Fundamental Activity
+1467	15:26:10	1.289	30.522	0.007	Manual	Sensor Status	Fundamental Activity
+1468	15:26:11	1.278	28.836	0.008	Manual	Sensor Status	Fundamental Activity
+1469	15:26:12	1.267	26.559	0.009	Manual	Sensor Status	Fundamental Activity
+1470	15:26:13	1.248	22.559	0.010	Manual	Sensor Status	Fundamental Activity
+1471	15:26:14	1.228	19.559	0.011	Manual	Sensor Status	Fundamental Activity
+1472	15:26:15	1.200	15.559	0.013	Manual	Sensor Status	Fundamental Activity
+1473	15:26:16	1.175	12.559	0.014	Manual	Sensor Status	Fundamental Activity
+1474	15:26:17	1.147	9.559	0.015	Manual	Sensor Status	Fundamental Activity
+1475	15:26:18	1.120	5.559	0.016	Manual	Sensor Status	Fundamental Activity
+1476	15:26:19	1.093	2.559	0.017	Manual	Sensor Status	Fundamental Activity
+1477	15:26:20	1.068	0.000	0.018	Manual	Sensor Status	Fundamental Activity
+1478	15:26:21	1.041	0.000	0.020	Manual	Sensor Status	Fundamental Activity
+1479	15:26:22	1.019	0.000	0.020	Manual	Sensor Status	Fundamental Activity
+1480	15:26:23	0.995	0.000	0.021	Manual	Sensor Status	Fundamental Activity
+1481	15:26:24	0.974	0.000	0.022	Manual	Sensor Status	Fundamental Activity
+1482	15:26:25	0.953	0.000	0.023	Manual	Sensor Status	Fundamental Activity
+1483	15:26:26	0.930	0.000	0.024	Manual	Sensor Status	Fundamental Activity
+1484	15:26:27	0.908	0.000	0.025	Manual	Sensor Status	Fundamental Activity
+1485	15:26:28	0.888	0.000	0.026	Manual	Sensor Status	Fundamental Activity
+1486	15:26:29	0.868	0.000	0.027	Manual	Sensor Status	Fundamental Activity
+1487	15:26:30	0.844	0.000	0.028	Manual	Sensor Status	Fundamental Activity
+1488	15:26:31	0.825	0.000	0.029	Manual	Sensor Status	Fundamental Activity
+1489	15:26:32	0.806	0.000	0.030	Manual	Sensor Status	Fundamental Activity
+1490	15:26:33	0.787	0.000	0.030	Manual	Sensor Status	Fundamental Activity
+1491	15:26:34	0.769	0.000	0.031	Manual	Sensor Status	Fundamental Activity
+1492	15:26:35	0.750	0.000	0.032	Manual	Sensor Status	Fundamental Activity
+1493	15:26:36	0.730	0.000	0.033	Manual	Sensor Status	Fundamental Activity
+1494	15:26:37	0.712	0.000	0.033	Manual	Sensor Status	Fundamental Activity
+1495	15:26:38	0.694	0.000	0.034	Manual	Sensor Status	Fundamental Activity
+1496	15:26:39	0.679	0.000	0.035	Manual	Sensor Status	Fundamental Activity
+1497	15:26:40	0.660	0.000	0.035	Manual	Sensor Status	Fundamental Activity
+1498	15:26:41	0.643	0.000	0.036	Manual	Sensor Status	Fundamental Activity
+1499	15:26:42	0.627	0.000	0.037	Manual	Sensor Status	Fundamental Activity
+1500	15:26:43	0.609	0.000	0.037	Manual	Sensor Status	Fundamental Activity
+1501	15:26:44	0.594	0.000	0.038	Manual	Sensor Status	Fundamental Activity
+1502	15:26:45	0.581	0.000	0.038	Manual	Sensor Status	Fundamental Activity
+1503	15:26:46	0.564	0.000	0.039	Manual	Sensor Status	Fundamental Activity
+1504	15:26:47	0.550	0.000	0.040	Manual	Sensor Status	Fundamental Activity
+1505	15:26:48	0.537	0.000	0.040	Manual	Sensor Status	Fundamental Activity
+1506	15:26:49	0.522	0.000	0.041	Manual	Sensor Status	Fundamental Activity
+1507	15:26:50	0.508	0.000	0.041	Manual	Sensor Status	Fundamental Activity
+1508	15:26:51	0.494	0.000	0.042	Manual	Sensor Status	Fundamental Activity
+1509	15:26:52	0.482	0.000	0.042	Manual	Sensor Status	Fundamental Activity
+1510	15:26:53	0.466	0.000	0.043	Manual	Sensor Status	Fundamental Activity
+1511	15:26:54	0.455	0.000	0.043	Manual	Sensor Status	Fundamental Activity
+1512	15:26:55	0.442	0.000	0.044	Manual	Sensor Status	Fundamental Activity
+1513	15:26:56	0.431	0.000	0.044	Manual	Sensor Status	Fundamental Activity
+1514	15:26:57	0.418	0.000	0.044	Manual	Sensor Status	Fundamental Activity
+1515	15:26:58	0.408	0.000	0.045	Manual	Sensor Status	Fundamental Activity
+1516	15:26:59	0.397	0.000	0.045	Manual	Sensor Status	Fundamental Activity
+1517	15:27:00	0.385	0.000	0.046	Manual	Sensor Status	Fundamental Activity
+1518	15:27:01	0.375	0.000	0.046	Manual	Sensor Status	Fundamental Activity
+1519	15:27:02	0.365	0.000	0.046	Manual	Sensor Status	Fundamental Activity
+1520	15:27:03	0.354	0.000	0.047	Manual	Sensor Status	Fundamental Activity
+1521	15:27:04	0.345	0.000	0.047	Manual	Sensor Status	Fundamental Activity
+1522	15:27:05	0.335	0.000	0.047	Manual	Sensor Status	Fundamental Activity
+1523	15:27:06	0.325	0.000	0.048	Manual	Sensor Status	Fundamental Activity
+1524	15:27:07	0.316	0.000	0.048	Manual	Sensor Status	Fundamental Activity
+1525	15:27:08	0.308	0.000	0.048	Manual	Sensor Status	Fundamental Activity
+1526	15:27:09	0.300	0.000	0.049	Manual	Sensor Status	Fundamental Activity
+1527	15:27:10	0.290	0.000	0.049	Manual	Sensor Status	Fundamental Activity
+1528	15:27:11	0.281	0.000	0.049	Manual	Sensor Status	Fundamental Activity
+1529	15:27:12	0.274	0.000	0.050	Manual	Sensor Status	Fundamental Activity
+1530	15:27:13	0.266	0.000	0.050	Manual	Sensor Status	Fundamental Activity
+1531	15:27:14	0.260	0.000	0.050	Manual	Sensor Status	Fundamental Activity
+1532	15:27:15	0.250	0.000	0.050	Manual	Sensor Status	Fundamental Activity
+1533	15:27:16	0.243	0.000	0.051	Manual	Sensor Status	Fundamental Activity
+1534	15:27:17	0.235	0.000	0.051	Manual	Sensor Status	Fundamental Activity
+1535	15:27:18	0.228	0.000	0.051	Manual	Sensor Status	Fundamental Activity
+1536	15:27:19	0.223	0.000	0.051	Manual	Sensor Status	Fundamental Activity
+1537	15:27:20	0.215	0.000	0.052	Manual	Sensor Status	Fundamental Activity
+1538	15:27:21	0.210	0.000	0.052	Manual	Sensor Status	Fundamental Activity
+1539	15:27:22	0.202	0.000	0.052	Manual	Sensor Status	Fundamental Activity
+1540	15:27:23	0.199	0.000	0.052	Manual	Sensor Status	Fundamental Activity
+1541	15:27:24	0.191	0.000	0.052	Manual	Sensor Status	Fundamental Activity
+1542	15:27:25	0.186	0.000	0.053	Manual	Sensor Status	Fundamental Activity
+1543	15:27:26	0.180	0.000	0.053	Manual	Sensor Status	Fundamental Activity
+1544	15:27:27	0.174	0.000	0.053	Manual	Sensor Status	Fundamental Activity
+1545	15:27:28	0.171	0.000	0.053	Manual	Sensor Status	Fundamental Activity
+1546	15:27:29	0.164	0.000	0.053	Manual	Sensor Status	Fundamental Activity
+1547	15:27:30	0.159	0.000	0.053	Manual	Sensor Status	Fundamental Activity
+1548	15:27:31	0.155	0.000	0.054	Manual	Sensor Status	Fundamental Activity
+1549	15:27:32	0.151	0.000	0.054	Manual	Sensor Status	Fundamental Activity
+1550	15:27:33	0.147	0.000	0.054	Manual	Sensor Status	Fundamental Activity
+1551	15:27:34	0.142	0.000	0.054	Manual	Sensor Status	Fundamental Activity
+1552	15:27:35	0.139	0.000	0.054	Manual	Sensor Status	Fundamental Activity
+1553	15:27:36	0.134	0.000	0.054	Manual	Sensor Status	Fundamental Activity
+1554	15:27:37	0.129	0.000	0.054	Manual	Sensor Status	Fundamental Activity
+1555	15:27:38	0.126	0.000	0.055	Manual	Sensor Status	Fundamental Activity
+1556	15:27:39	0.122	0.000	0.055	Manual	Sensor Status	Fundamental Activity
+1557	15:27:40	0.118	0.000	0.055	Manual	Sensor Status	Fundamental Activity
+1558	15:27:41	0.115	0.000	0.055	Manual	Sensor Status	Fundamental Activity
+1559	15:27:42	0.112	0.000	0.055	Manual	Sensor Status	Fundamental Activity
+1560	15:27:43	0.108	0.000	0.055	Manual	Sensor Status	Fundamental Activity
+1561	15:27:44	0.104	0.000	0.055	Manual	Sensor Status	Fundamental Activity
+1562	15:27:45	0.102	0.000	0.055	Manual	Sensor Status	Fundamental Activity
+1563	15:27:46	0.099	0.000	0.055	Manual	Sensor Status	Fundamental Activity
+1564	15:27:47	0.094	0.000	0.056	Manual	Sensor Status	Fundamental Activity
+1565	15:27:48	0.092	0.000	0.056	Manual	Sensor Status	Fundamental Activity
+1566	15:27:49	0.089	0.000	0.056	Manual	Sensor Status	Fundamental Activity
+1567	15:27:50	0.087	0.000	0.056	Manual	Sensor Status	Fundamental Activity
+1568	15:27:51	0.084	0.000	0.056	Manual	Sensor Status	Fundamental Activity
+1569	15:27:52	0.081	0.000	0.056	Manual	Sensor Status	Fundamental Activity
+1570	15:27:53	0.079	0.000	0.056	Manual	Sensor Status	Fundamental Activity
+1571	15:27:54	0.077	0.000	0.056	Manual	Sensor Status	Fundamental Activity
+1572	15:27:55	0.074	0.000	0.056	Manual	Sensor Status	Fundamental Activity
+1573	15:27:56	0.072	0.000	0.056	Manual	Sensor Status	Fundamental Activity
+1574	15:27:57	0.070	0.000	0.056	Manual	Sensor Status	Fundamental Activity
+1575	15:27:58	0.067	0.000	0.056	Manual	Sensor Status	Fundamental Activity
+1576	15:27:59	0.066	0.000	0.056	Manual	Sensor Status	Fundamental Activity
+1577	15:28:00	0.063	0.000	0.057	Manual	Sensor Status	Fundamental Activity
+1578	15:28:01	0.061	0.000	0.057	Manual	Sensor Status	Fundamental Activity
+1579	15:28:02	0.061	0.000	0.057	Manual	Sensor Status	Fundamental Activity
+1580	15:28:03	0.059	0.000	0.057	Manual	Sensor Status	Fundamental Activity
+1581	15:28:04	0.055	0.000	0.057	Manual	Sensor Status	Fundamental Activity
+1582	15:28:05	0.055	0.000	0.057	Manual	Sensor Status	Fundamental Activity
+1583	15:28:06	0.053	0.000	0.057	Manual	Sensor Status	Fundamental Activity
+1584	15:28:07	0.051	0.000	0.057	Manual	Sensor Status	Fundamental Activity
+1585	15:28:08	0.049	0.000	0.057	Manual	Sensor Status	Fundamental Activity
+1586	15:28:09	0.049	0.000	0.057	Manual	Sensor Status	Fundamental Activity
+1587	15:28:10	0.047	0.000	0.057	Manual	Sensor Status	Fundamental Activity
+1588	15:28:11	0.045	0.000	0.057	Manual	Sensor Status	Fundamental Activity
+1589	15:28:12	0.044	0.000	0.057	Manual	Sensor Status	Fundamental Activity
+1590	15:28:13	0.042	0.000	0.057	Manual	Sensor Status	Fundamental Activity
+1591	15:28:14	0.039	0.000	0.057	Manual	Sensor Status	Fundamental Activity
+1592	15:28:15	0.040	0.000	0.057	Manual	Sensor Status	Fundamental Activity
+1593	15:28:16	0.038	0.000	0.057	Manual	Sensor Status	Fundamental Activity
+1594	15:28:17	0.038	0.000	0.057	Manual	Sensor Status	Fundamental Activity
+1595	15:28:18	0.035	0.000	0.057	Manual	Sensor Status	Fundamental Activity
+1596	15:28:19	0.036	0.000	0.057	Manual	Sensor Status	Fundamental Activity
+1597	15:28:20	0.033	0.000	0.057	Manual	Sensor Status	Fundamental Activity
+1598	15:28:21	0.033	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1599	15:28:22	0.033	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1600	15:28:23	0.029	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1601	15:28:24	0.030	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1602	15:28:25	0.028	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1603	15:28:26	0.028	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1604	15:28:27	0.026	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1605	15:28:28	0.026	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1606	15:28:29	0.025	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1607	15:28:30	0.024	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1608	15:28:31	0.022	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1609	15:28:32	0.022	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1610	15:28:33	0.022	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1611	15:28:34	0.021	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1612	15:28:35	0.020	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1613	15:28:36	0.020	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1614	15:28:37	0.018	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1615	15:28:38	0.019	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1616	15:28:39	0.018	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1617	15:28:40	0.017	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1618	15:28:41	0.017	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1619	15:28:42	0.016	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1620	15:28:43	0.015	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1621	15:28:44	0.014	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1622	15:28:45	0.015	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1623	15:28:46	0.013	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1624	15:28:47	0.013	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1625	15:28:48	0.012	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1626	15:28:49	0.012	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1627	15:28:50	0.012	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1628	15:28:51	0.011	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1629	15:28:52	0.011	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1630	15:28:53	0.010	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1631	15:28:54	0.010	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1632	15:28:55	0.010	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1633	15:28:56	0.009	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1634	15:28:57	0.008	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1635	15:28:58	0.009	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1636	15:28:59	0.009	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1637	15:29:00	0.008	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1638	15:29:01	0.008	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1639	15:29:02	0.008	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1640	15:29:03	0.006	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1641	15:29:04	0.007	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1642	15:29:05	0.006	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1643	15:29:06	0.006	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1644	15:29:07	0.006	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1645	15:29:08	0.005	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1646	15:29:09	0.006	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1647	15:29:10	0.006	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1648	15:29:11	0.005	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1649	15:29:12	0.004	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1650	15:29:13	0.006	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1651	15:29:14	0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1652	15:29:15	0.005	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1653	15:29:16	0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1654	15:29:17	0.004	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1655	15:29:18	0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1656	15:29:19	0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1657	15:29:20	0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1658	15:29:21	0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1659	15:29:22	0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1660	15:29:23	0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1661	15:29:24	0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1662	15:29:25	0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1663	15:29:26	0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1664	15:29:27	0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1665	15:29:28	0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1666	15:29:29	0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1667	15:29:30	0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1668	15:29:31	0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1669	15:29:32	0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1670	15:29:33	0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1671	15:29:34	0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1672	15:29:35	0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1673	15:29:36	0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1674	15:29:37	0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1675	15:29:38	0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1676	15:29:39	0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1677	15:29:40	0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1678	15:29:41	-0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1679	15:29:42	0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1680	15:29:43	0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1681	15:29:44	0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1682	15:29:45	0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1683	15:29:46	0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1684	15:29:47	0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1685	15:29:48	0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1686	15:29:49	0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1687	15:29:50	0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1688	15:29:51	0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1689	15:29:52	0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1690	15:29:53	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1691	15:29:54	0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1692	15:29:55	0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1693	15:29:56	0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1694	15:29:57	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1695	15:29:58	0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1696	15:29:59	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1697	15:30:00	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1698	15:30:01	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1699	15:30:02	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1700	15:30:03	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1701	15:30:04	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1702	15:30:05	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1703	15:30:06	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1704	15:30:07	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1705	15:30:08	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1706	15:30:09	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1707	15:30:10	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1708	15:30:11	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1709	15:30:12	-0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1710	15:30:13	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1711	15:30:14	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1712	15:30:15	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1713	15:30:16	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1714	15:30:17	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1715	15:30:18	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1716	15:30:19	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1717	15:30:20	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1718	15:30:21	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1719	15:30:22	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1720	15:30:23	-0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1721	15:30:24	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1722	15:30:25	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1723	15:30:26	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1724	15:30:27	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1725	15:30:28	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1726	15:30:29	-0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1727	15:30:30	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1728	15:30:31	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1729	15:30:32	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1730	15:30:33	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1731	15:30:34	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1732	15:30:35	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1733	15:30:36	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1734	15:30:37	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1735	15:30:38	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1736	15:30:39	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1737	15:30:40	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1738	15:30:41	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1739	15:30:42	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1740	15:30:43	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1741	15:30:44	-0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1742	15:30:45	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1743	15:30:46	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1744	15:30:47	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1745	15:30:48	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1746	15:30:49	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1747	15:30:50	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1748	15:30:51	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1749	15:30:52	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1750	15:30:53	-0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1751	15:30:54	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1752	15:30:55	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1753	15:30:56	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1754	15:30:57	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1755	15:30:58	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1756	15:30:59	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1757	15:31:00	-0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1758	15:31:01	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1759	15:31:02	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1760	15:31:03	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1761	15:31:04	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1762	15:31:05	-0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1763	15:31:06	-0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1764	15:31:07	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1765	15:31:08	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1766	15:31:09	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1767	15:31:10	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1768	15:31:11	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1769	15:31:12	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1770	15:31:13	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1771	15:31:14	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1772	15:31:15	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1773	15:31:16	-0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1774	15:31:17	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1775	15:31:18	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1776	15:31:19	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1777	15:31:20	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1778	15:31:21	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1779	15:31:22	-0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1780	15:31:23	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1781	15:31:24	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1782	15:31:25	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1783	15:31:26	-0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1784	15:31:27	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1785	15:31:28	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1786	15:31:29	-0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1787	15:31:30	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1788	15:31:31	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1789	15:31:32	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1790	15:31:33	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1791	15:31:34	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1792	15:31:35	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1793	15:31:36	-0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1794	15:31:37	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1795	15:31:38	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1796	15:31:39	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1797	15:31:40	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1798	15:31:41	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1799	15:31:42	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1800	15:31:43	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1801	15:31:44	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1802	15:31:45	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1803	15:31:46	-0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1804	15:31:47	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1805	15:31:48	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1806	15:31:49	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1807	15:31:50	-0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1808	15:31:51	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1809	15:31:52	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1810	15:31:53	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1811	15:31:54	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1812	15:31:55	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1813	15:31:56	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1814	15:31:57	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1815	15:31:58	-0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1816	15:31:59	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1817	15:32:00	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1818	15:32:01	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1819	15:32:02	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1820	15:32:03	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1821	15:32:04	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1822	15:32:05	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1823	15:32:06	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1824	15:32:07	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1825	15:32:08	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1826	15:32:09	-0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1827	15:32:10	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1828	15:32:11	-0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1829	15:32:12	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1830	15:32:13	-0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1831	15:32:14	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1832	15:32:15	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1833	15:32:16	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1834	15:32:17	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1835	15:32:18	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1836	15:32:19	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1837	15:32:20	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1838	15:32:21	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1839	15:32:22	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1840	15:32:23	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1841	15:32:24	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1842	15:32:25	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1843	15:32:26	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1844	15:32:27	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1845	15:32:28	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1846	15:32:29	-0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1847	15:32:30	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1848	15:32:31	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1849	15:32:32	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1850	15:32:33	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1851	15:32:34	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1852	15:32:35	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1853	15:32:36	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1854	15:32:37	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1855	15:32:38	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1856	15:32:39	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1857	15:32:40	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1858	15:32:41	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1859	15:32:42	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1860	15:32:43	-0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1861	15:32:44	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1862	15:32:45	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1863	15:32:46	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1864	15:32:47	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1865	15:32:48	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1866	15:32:49	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1867	15:32:50	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1868	15:32:51	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1869	15:32:52	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1870	15:32:53	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1871	15:32:54	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1872	15:32:55	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1873	15:32:56	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1874	15:32:57	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1875	15:32:58	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1876	15:32:59	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1877	15:33:00	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1878	15:33:01	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1879	15:33:02	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1880	15:33:03	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1881	15:33:04	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1882	15:33:05	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1883	15:33:06	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1884	15:33:07	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1885	15:33:08	-0.003	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1886	15:33:09	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1887	15:33:10	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1888	15:33:11	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1889	15:33:12	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1890	15:33:13	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1891	15:33:14	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1892	15:33:15	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1893	15:33:16	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1894	15:33:17	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1895	15:33:18	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1896	15:33:19	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1897	15:33:20	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1898	15:33:21	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1899	15:33:22	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1900	15:33:23	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1901	15:33:24	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1902	15:33:25	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1903	15:33:26	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1904	15:33:27	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1905	15:33:28	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1906	15:33:29	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1907	15:33:30	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1908	15:33:31	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1909	15:33:32	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1910	15:33:33	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1911	15:33:34	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1912	15:33:35	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1913	15:33:36	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1914	15:33:37	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1915	15:33:38	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1916	15:33:39	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1917	15:33:40	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1918	15:33:41	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1919	15:33:42	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1920	15:33:43	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1921	15:33:44	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1922	15:33:45	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1923	15:33:46	0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1924	15:33:47	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1925	15:33:48	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1926	15:33:49	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1927	15:33:50	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1928	15:33:51	0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1929	15:33:52	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1930	15:33:53	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1931	15:33:54	0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1932	15:33:55	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1933	15:33:56	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1934	15:33:57	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1935	15:33:58	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1936	15:33:59	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1937	15:34:00	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1938	15:34:01	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1939	15:34:02	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1940	15:34:03	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1941	15:34:04	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1942	15:34:05	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1943	15:34:06	0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1944	15:34:07	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1945	15:34:08	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1946	15:34:09	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1947	15:34:10	0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1948	15:34:11	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1949	15:34:12	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1950	15:34:13	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1951	15:34:14	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1952	15:34:15	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1953	15:34:16	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1954	15:34:17	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1955	15:34:18	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1956	15:34:19	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1957	15:34:20	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1958	15:34:21	0.000	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1959	15:34:22	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1960	15:34:23	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1961	15:34:24	-0.001	0.000	0.058	Manual	Sensor Status	Fundamental Activity
+1962	15:34:25	-0.002	0.000	0.058	Manual	Sensor Status	Fundamental Activity

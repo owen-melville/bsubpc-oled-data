@@ -1,0 +1,7 @@
+1. Don't use "None" in the Deposition Subtype Column, just repeat the Deposition Type
+Why? The program interprets None not as the string None but as the absence of an object
+Old rows are OK as long as they aren't being updated
+
+2. Don't have the Excel spreadsheets open while you run the programs
+
+3. Usually its best to fill in all the columns of any 'input' sheet before running (just put asd if you don't know what to put)
