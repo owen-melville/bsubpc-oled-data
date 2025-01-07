@@ -6,6 +6,8 @@ These two summary spreadsheets serve two purposes: Human-inputed descriptions of
 
 <b> Master OLED Log: </b> This is a list of all of the OLEDs by device and includes all of the output data and the deconvoluted (Spectrally separated data).
 
+<h2>List of OLEDs used in this study by index:</h2>
+
 | OLED ID  | Fabrication Date | Characterization Date | Fluorescent Dopant (FD) | TADF Assistant Dopant (TD) |
 | -------- | ---------------- | --------------------- | ----------------------- | -------------------------- |
 | OLED-004 | 2023-07-12       | 2023-07-13            | None                    | TxOPhCz                    |
